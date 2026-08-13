@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "description": "Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.\nDon't modify in your pull request. It is automatically generated. Modify instead.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "The official Lemmy projects.",
+      "items": [],
+      "title": "Lemmy"
+    },
+    {
+      "description": "All about Lemmy instances.",
+      "items": [],
+      "title": "Instances"
+    },
+    {
+      "description": "Alternative front-ends for Lemmy.",
+      "items": [],
+      "title": "Alternative front-ends"
+    },
+    {
+      "description": "Apps to access Lemmy.",
+      "items": [],
+      "title": "Mobile / Desktop apps"
+    },
+    {
+      "description": "Libraries to interact with Lemmy.",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "Userscripts and plugins for web browsers.",
+      "items": [],
+      "title": "Userscripts / Browser plugins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Guides"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:33:38.816Z",
+    "original_repository": "dbeley/awesome-lemmy",
+    "original_repository_sha": "6ab4e3595d5410e34738c186c14c727019fd2fa4",
+    "enhanced_repository": "enhansome/enhansome-lemmy",
+    "enhanced_repository_description": null,
+    "title": "Awesome Lemmy with stars"
+  }
+}
