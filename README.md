@@ -4,7 +4,7 @@
 
 # Awesome Lemmy with stars
 
-A community driven list of useful apps, tools and websites for the [Lemmy](https://join-lemmy.org/) federated social network. This is not a catalog of every tools available, just a starting point for your explorations. Inspired by [awesome-scala](https://github.com/lauris/awesome-scala) ⭐ 9,237 | 🐛 14 | 🌐 Python | 📅 2024-09-20 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,800 | 🐛 17 | 🌐 Python | 📅 2026-08-24. Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,620 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 list.
+A community driven list of useful apps, tools and websites for the [Lemmy](https://join-lemmy.org/) federated social network. This is not a catalog of every tools available, just a starting point for your explorations. Inspired by [awesome-scala](https://github.com/lauris/awesome-scala) ⭐ 9,237 | 🐛 14 | 🌐 Python | 📅 2024-09-20 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,805 | 🐛 17 | 🌐 Python | 📅 2026-08-24. Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,620 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 list.
 
 Projects with over 500 stargazers are in bold.
 
