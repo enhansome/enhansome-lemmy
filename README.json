@@ -338,7 +338,7 @@
                 "last_commit": "2026-06-11T03:19:36Z",
                 "owner": "Blorp-Labs",
                 "repo": "blorp",
-                "stars": 133
+                "stars": 134
               }
             },
             {
@@ -380,7 +380,7 @@
                 "archived": false,
                 "id": 661434634,
                 "language": null,
-                "last_commit": "2026-08-17T01:31:11Z",
+                "last_commit": "2026-08-25T07:55:17Z",
                 "owner": "idunnololz",
                 "repo": "summit-for-lemmy",
                 "stars": 65
@@ -1043,7 +1043,7 @@
             "last_commit": "2024-09-20T08:21:10Z",
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9238
+            "stars": 9237
           }
         }
       ],
@@ -1051,7 +1051,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:19:05.350Z",
+    "last_updated": "2026-08-25T15:25:02.506Z",
     "original_repository": "dbeley/awesome-lemmy",
     "original_repository_id": 659344221,
     "original_repository_sha": "6ab4e3595d5410e34738c186c14c727019fd2fa4",
