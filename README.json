@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T05:19:19Z",
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14565
+                "stars": 14566
               }
             },
             {
@@ -97,13 +97,13 @@
             {
               "node_type": "item",
               "title": "photon",
-              "description": "A faster, prettier, and nicer fediverse client photon.xylight.dev",
+              "description": "A faster, prettier, and nicer fediverse client  photon.xylight.dev",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 658111463,
                 "language": "Svelte",
-                "last_commit": "2026-08-09T05:21:35Z",
+                "last_commit": "2026-08-24T22:36:36Z",
                 "owner": "Xyphyn",
                 "repo": "photon",
                 "stars": 544
@@ -121,13 +121,13 @@
                 "last_commit": "2025-05-04T20:26:58Z",
                 "owner": "rystaf",
                 "repo": "mlmym",
-                "stars": 287
+                "stars": 286
               }
             },
             {
               "node_type": "item",
               "title": "alexandrite",
-              "description": "A beautiful and convenient desktop-first alternate web UI for Lemmy. alexandrite.app",
+              "description": "A beautiful and convenient desktop-first alternate web UI for Lemmy.  alexandrite.app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -136,13 +136,13 @@
                 "last_commit": "2025-02-14T23:39:34Z",
                 "owner": "sheodox",
                 "repo": "alexandrite",
-                "stars": 278
+                "stars": 279
               }
             },
             {
               "node_type": "item",
               "title": "Quiblr",
-              "description": "Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse quiblr.com",
+              "description": "Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse  quiblr.com",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -157,7 +157,7 @@
             {
               "node_type": "item",
               "title": "slemmy",
-              "description": "Lemmy client in Svelte slemmy.libdb.so",
+              "description": "Lemmy client in Svelte  slemmy.libdb.so",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -172,7 +172,7 @@
             {
               "node_type": "item",
               "title": "Leanish",
-              "description": "A lean-ish web client for Lemmy. natoboram.github.io/Leanish",
+              "description": "A lean-ish web client for Lemmy.  natoboram.github.io/Leanish",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -202,7 +202,7 @@
             {
               "node_type": "item",
               "title": "lemmy-ui-svelte",
-              "description": "A UI for Lemmy written in Svelte createlab.io",
+              "description": "A UI for Lemmy written in Svelte  createlab.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -224,7 +224,7 @@
             {
               "node_type": "item",
               "title": "voyager",
-              "description": "Voyager — a beautiful app for Lemmy and Piefed Android, iOS, Web",
+              "description": "Voyager — a beautiful app for Lemmy and Piefed  Android, iOS, Web",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -233,13 +233,13 @@
                 "last_commit": "2026-08-18T03:16:17Z",
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1804
+                "stars": 1805
               }
             },
             {
               "node_type": "item",
               "title": "jerboa",
-              "description": "A native Android app for Lemmy Android",
+              "description": "A native Android app for Lemmy  Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -254,7 +254,7 @@
             {
               "node_type": "item",
               "title": "thunder",
-              "description": "An open-source cross-platform Lemmy & PieFed client for iOS and Android Android, iOS",
+              "description": "An open-source cross-platform Lemmy & PieFed client for iOS and Android  Android, iOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -263,13 +263,13 @@
                 "last_commit": "2026-08-22T03:44:41Z",
                 "owner": "thunder-app",
                 "repo": "thunder",
-                "stars": 1017
+                "stars": 1018
               }
             },
             {
               "node_type": "item",
               "title": "neonmodem",
-              "description": "Neon Modem Overdrive (https://codeberg.org/mrus/neonmodem) Linux",
+              "description": "Neon Modem Overdrive (https://codeberg.org/mrus/neonmodem)  Linux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -284,7 +284,7 @@
             {
               "node_type": "item",
               "title": "memmy",
-              "description": "An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native. Find us on the App Store and Google Play! iOS",
+              "description": "An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native. Find us on the App Store and Google Play!  iOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -299,7 +299,7 @@
             {
               "node_type": "item",
               "title": "mlem",
-              "description": "Mlem for Lemmy iOS",
+              "description": "Mlem for Lemmy  iOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -314,7 +314,7 @@
             {
               "node_type": "item",
               "title": "interstellar",
-              "description": "An app for Mbin/Lemmy/PieFed, connecting you to the fediverse. Android, Linux, Windows",
+              "description": "An app for Mbin/Lemmy/PieFed, connecting you to the fediverse.  Android, Linux, Windows",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -329,7 +329,7 @@
             {
               "node_type": "item",
               "title": "blorp",
-              "description": "Blorp – a Threadiverse client for Lemmy and PieFed. Web, iOS & macOS, and more! Android, iOS",
+              "description": "Blorp – a Threadiverse client for Lemmy and PieFed. Web, iOS & macOS, and more!  Android, iOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -344,13 +344,13 @@
             {
               "node_type": "item",
               "title": "RaccoonForLemmy",
-              "description": "A Kotlin Multiplatform client for Lemmy Android",
+              "description": "A Kotlin Multiplatform client for Lemmy  Android",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 818029460,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T01:24:49Z",
+                "last_commit": "2026-08-25T01:23:04Z",
                 "owner": "LiveFastEatTrashRaccoon",
                 "repo": "RaccoonForLemmy",
                 "stars": 105
@@ -359,7 +359,7 @@
             {
               "node_type": "item",
               "title": "servitor",
-              "description": "A command-line Fediverse client that doesn’t require a server Linux",
+              "description": "A command-line Fediverse client that doesn’t require a server  Linux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -374,7 +374,7 @@
             {
               "node_type": "item",
               "title": "summit-for-lemmy",
-              "description": "A mobile client for Lemmy Android",
+              "description": "A mobile client for Lemmy  Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -389,7 +389,7 @@
             {
               "node_type": "item",
               "title": "lemmy-fennec",
-              "description": "Arctius is a simple and accessible mobile client for Lemmy Android",
+              "description": "Arctius is a simple and accessible mobile client for Lemmy  Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -404,7 +404,7 @@
             {
               "node_type": "item",
               "title": "Lemmios",
-              "description": "Lemmios iOS",
+              "description": "Lemmios  iOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1043,7 +1043,7 @@
             "last_commit": "2024-09-20T08:21:10Z",
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9237
+            "stars": 9238
           }
         }
       ],
@@ -1051,7 +1051,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:20:03.968Z",
+    "last_updated": "2026-08-25T06:19:05.350Z",
     "original_repository": "dbeley/awesome-lemmy",
     "original_repository_id": 659344221,
     "original_repository_sha": "6ab4e3595d5410e34738c186c14c727019fd2fa4",
