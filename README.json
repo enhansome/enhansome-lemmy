@@ -84,7 +84,7 @@
                 "last_commit": "2024-06-11T07:37:52Z",
                 "owner": "maltfield",
                 "repo": "awesome-lemmy-instances",
-                "stars": 1013
+                "stars": 1014
               }
             }
           ],
@@ -106,7 +106,7 @@
                 "last_commit": "2026-08-24T22:36:36Z",
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 544
+                "stars": 545
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-18T03:16:17Z",
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1805
+                "stars": 1806
               }
             },
             {
@@ -245,10 +245,10 @@
                 "archived": false,
                 "id": 443636619,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T10:03:14Z",
+                "last_commit": "2026-08-26T10:26:53Z",
                 "owner": "LemmyNet",
                 "repo": "jerboa",
-                "stars": 1313
+                "stars": 1314
               }
             },
             {
@@ -305,7 +305,7 @@
                 "archived": false,
                 "id": 661451138,
                 "language": "Swift",
-                "last_commit": "2026-08-24T10:10:24Z",
+                "last_commit": "2026-08-26T01:15:57Z",
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 250
@@ -323,7 +323,7 @@
                 "last_commit": "2026-08-18T05:32:32Z",
                 "owner": "interstellar-app",
                 "repo": "interstellar",
-                "stars": 142
+                "stars": 141
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-06-11T03:19:36Z",
                 "owner": "Blorp-Labs",
                 "repo": "blorp",
-                "stars": 134
+                "stars": 133
               }
             },
             {
@@ -380,7 +380,7 @@
                 "archived": false,
                 "id": 661434634,
                 "language": null,
-                "last_commit": "2026-08-25T07:55:17Z",
+                "last_commit": "2026-08-26T08:29:02Z",
                 "owner": "idunnololz",
                 "repo": "summit-for-lemmy",
                 "stars": 65
@@ -1043,7 +1043,7 @@
             "last_commit": "2024-09-20T08:21:10Z",
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9237
+            "stars": 9239
           }
         }
       ],
@@ -1051,7 +1051,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:25:02.506Z",
+    "last_updated": "2026-08-26T16:03:55.042Z",
     "original_repository": "dbeley/awesome-lemmy",
     "original_repository_id": 659344221,
     "original_repository_sha": "6ab4e3595d5410e34738c186c14c727019fd2fa4",
