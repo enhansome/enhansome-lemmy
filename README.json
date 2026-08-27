@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T05:19:19Z",
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14568
+                "stars": 14570
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2024-06-11T07:37:52Z",
                 "owner": "maltfield",
                 "repo": "awesome-lemmy-instances",
-                "stars": 1014
+                "stars": 1015
               }
             }
           ],
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-27T10:25:49Z",
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1806
+                "stars": 1807
               }
             },
             {
@@ -1051,7 +1051,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:44.790Z",
+    "last_updated": "2026-08-27T23:56:53.485Z",
     "original_repository_info": {
       "archived": false,
       "id": 659344221,
