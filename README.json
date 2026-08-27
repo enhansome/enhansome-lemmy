@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T05:19:19Z",
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14566
+                "stars": 14568
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2026-08-24T22:36:36Z",
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 545
+                "stars": 546
               }
             },
             {
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 652400579,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T03:16:17Z",
+                "last_commit": "2026-08-27T10:25:49Z",
                 "owner": "aeharding",
                 "repo": "voyager",
                 "stars": 1806
@@ -248,7 +248,7 @@
                 "last_commit": "2026-08-26T10:26:53Z",
                 "owner": "LemmyNet",
                 "repo": "jerboa",
-                "stars": 1314
+                "stars": 1313
               }
             },
             {
@@ -305,10 +305,10 @@
                 "archived": false,
                 "id": 661451138,
                 "language": "Swift",
-                "last_commit": "2026-08-26T01:15:57Z",
+                "last_commit": "2026-08-26T21:52:02Z",
                 "owner": "mlemgroup",
                 "repo": "mlem",
-                "stars": 250
+                "stars": 247
               }
             },
             {
@@ -350,7 +350,7 @@
                 "archived": false,
                 "id": 818029460,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T01:23:04Z",
+                "last_commit": "2026-08-27T01:23:25Z",
                 "owner": "LiveFastEatTrashRaccoon",
                 "repo": "RaccoonForLemmy",
                 "stars": 105
@@ -1051,9 +1051,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:03:55.042Z",
-    "original_repository": "dbeley/awesome-lemmy",
-    "original_repository_id": 659344221,
+    "last_updated": "2026-08-27T11:50:44.790Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 659344221,
+      "language": "Python",
+      "last_commit": "2026-07-20T16:42:37Z",
+      "owner": "dbeley",
+      "repo": "awesome-lemmy",
+      "stars": 363
+    },
     "original_repository_sha": "6ab4e3595d5410e34738c186c14c727019fd2fa4",
     "enhanced_repository": "enhansome/enhansome-lemmy",
     "enhanced_repository_description": null,
