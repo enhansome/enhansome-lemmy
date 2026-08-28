@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-18T05:19:19Z",
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14570
-              }
+                "stars": 14571
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-18T03:43:14Z",
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
-                "stars": 1008
-              }
+                "stars": 1009
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "LemmyNet",
                 "repo": "lemmy-ansible",
                 "stars": 271
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "LemmyNet",
                 "repo": "lemmy-plugins",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             }
           ],
           "description": "The official Lemmy projects.",
@@ -85,7 +89,8 @@
                 "owner": "maltfield",
                 "repo": "awesome-lemmy-instances",
                 "stars": 1015
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             }
           ],
           "description": "All about Lemmy instances.",
@@ -103,11 +108,12 @@
                 "archived": false,
                 "id": 658111463,
                 "language": "Svelte",
-                "last_commit": "2026-08-24T22:36:36Z",
+                "last_commit": "2026-08-28T04:04:44Z",
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 546
-              }
+                "stars": 547
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -122,7 +128,8 @@
                 "owner": "rystaf",
                 "repo": "mlmym",
                 "stars": 286
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "sheodox",
                 "repo": "alexandrite",
                 "stars": 279
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "Technicolor-Dreamcoat",
                 "repo": "Quiblr",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "diamondburned",
                 "repo": "slemmy",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "NatoBoram",
                 "repo": "Leanish",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "cr4yfish",
                 "repo": "nemmy",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "ando818",
                 "repo": "lemmy-ui-svelte",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             }
           ],
           "description": "Alternative front-ends for Lemmy.",
@@ -233,8 +246,9 @@
                 "last_commit": "2026-08-27T10:25:49Z",
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1807
-              }
+                "stars": 1806
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "LemmyNet",
                 "repo": "jerboa",
                 "stars": 1313
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -263,8 +278,9 @@
                 "last_commit": "2026-08-22T03:44:41Z",
                 "owner": "thunder-app",
                 "repo": "thunder",
-                "stars": 1018
-              }
+                "stars": 1019
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "mrusme",
                 "repo": "neonmodem",
                 "stars": 701
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "Memmy-App",
                 "repo": "memmy",
                 "stars": 532
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -305,11 +323,12 @@
                 "archived": false,
                 "id": 661451138,
                 "language": "Swift",
-                "last_commit": "2026-08-26T21:52:02Z",
+                "last_commit": "2026-08-28T01:39:09Z",
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -324,7 +343,8 @@
                 "owner": "interstellar-app",
                 "repo": "interstellar",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -339,7 +359,8 @@
                 "owner": "Blorp-Labs",
                 "repo": "blorp",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -354,7 +375,8 @@
                 "owner": "LiveFastEatTrashRaccoon",
                 "repo": "RaccoonForLemmy",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -369,7 +391,8 @@
                 "owner": "BentonEdmondson",
                 "repo": "servitor",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -384,7 +407,8 @@
                 "owner": "idunnololz",
                 "repo": "summit-for-lemmy",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -399,7 +423,8 @@
                 "owner": "nick-delirium",
                 "repo": "lemmy-fennec",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -414,7 +439,8 @@
                 "owner": "lavalleeale",
                 "repo": "Lemmios",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             }
           ],
           "description": "Apps to access Lemmy.",
@@ -436,7 +462,8 @@
                 "owner": "LemmyNet",
                 "repo": "activitypub-federation-rust",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -451,7 +478,8 @@
                 "owner": "LemmyNet",
                 "repo": "lemmy-js-client",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -466,7 +494,8 @@
                 "owner": "db0",
                 "repo": "pythorhead",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -481,7 +510,8 @@
                 "owner": "Fedihosting-Foundation",
                 "repo": "plemmy",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -496,7 +526,8 @@
                 "owner": "rrainn",
                 "repo": "Lemmy-Swift-Client",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -511,7 +542,8 @@
                 "owner": "LemmyNet",
                 "repo": "lemmy-client-rs",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -526,7 +558,8 @@
                 "owner": "MV-GH",
                 "repo": "LemmyBackwardsCompatibleAPI",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -541,7 +574,8 @@
                 "owner": "thunder-app",
                 "repo": "lemmy_api_client",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -556,7 +590,8 @@
                 "owner": "RikudouSage",
                 "repo": "LemmyApi",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             }
           ],
           "description": "Libraries to interact with Lemmy.",
@@ -578,7 +613,8 @@
                 "owner": "howdy-tsc",
                 "repo": "LemmyTools",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -593,7 +629,8 @@
                 "owner": "vmavromatis",
                 "repo": "Lemmy-keyboard-navigation",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -608,7 +645,8 @@
                 "owner": "pkrasicki",
                 "repo": "lemmy-modern-ui-theme-addon",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             }
           ],
           "description": "Userscripts and plugins for web browsers.",
@@ -630,7 +668,8 @@
                 "owner": "CMahaff",
                 "repo": "lasim",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -645,7 +684,8 @@
                 "owner": "ubergeek77",
                 "repo": "Lemmy-Easy-Deploy",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -660,7 +700,8 @@
                 "owner": "tgxn",
                 "repo": "lemmy-explorer",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -675,7 +716,8 @@
                 "owner": "wescode",
                 "repo": "lemmy_migrate",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -690,7 +732,8 @@
                 "owner": "SleeplessOne1917",
                 "repo": "lemmy-bot",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -705,7 +748,8 @@
                 "owner": "db0",
                 "repo": "fedi-safety",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -720,7 +764,8 @@
                 "owner": "Fmstrat",
                 "repo": "lcs",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -735,7 +780,8 @@
                 "owner": "programming-dot-dev",
                 "repo": "rss-bot",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -750,7 +796,8 @@
                 "owner": "Ac5000",
                 "repo": "lemmy_account_sync",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -765,7 +812,8 @@
                 "owner": "basedcount",
                 "repo": "defed-investigator",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -780,7 +828,8 @@
                 "owner": "mushroomlabs",
                 "repo": "fediverser",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -795,7 +844,8 @@
                 "owner": "RikudouSage",
                 "repo": "LemmySchedule",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -810,7 +860,8 @@
                 "owner": "Fmstrat",
                 "repo": "lpp",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -825,7 +876,8 @@
                 "owner": "db0",
                 "repo": "threativore",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -840,7 +892,8 @@
                 "owner": "RikudouSage",
                 "repo": "lemmyverse.link",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -855,7 +908,8 @@
                 "owner": "ismailkarsli",
                 "repo": "lemmy-federate",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -870,7 +924,8 @@
                 "owner": "Elara6331",
                 "repo": "lemmy-reply-bot",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -885,7 +940,8 @@
                 "owner": "noenfugler",
                 "repo": "LemmyModBot",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -900,7 +956,8 @@
                 "owner": "LemmyNet",
                 "repo": "lemmy-stats-crawler",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -915,7 +972,8 @@
                 "owner": "db0",
                 "repo": "lemmy-tagginator",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -930,7 +988,8 @@
                 "owner": "tgxn",
                 "repo": "lemmy-modder",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -945,7 +1004,8 @@
                 "owner": "PangoraWeb",
                 "repo": "pangora-recap",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -960,7 +1020,8 @@
                 "owner": "arran4",
                 "repo": "lemmy_notify",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             },
             {
               "node_type": "item",
@@ -975,7 +1036,8 @@
                 "owner": "QazCetelic",
                 "repo": "lemmy-know",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             }
           ],
           "description": null,
@@ -997,7 +1059,8 @@
                 "owner": "MV-GH",
                 "repo": "lemmy_openapi_spec",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:39:24.038Z"
             }
           ],
           "description": null,
@@ -1023,7 +1086,8 @@
             "owner": "PangoraWeb",
             "repo": "pangora",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T23:39:24.038Z"
         }
       ],
       "title": "Misc."
@@ -1044,14 +1108,15 @@
             "owner": "lauris",
             "repo": "awesome-scala",
             "stars": 9239
-          }
+          },
+          "first_seen": "2026-08-28T23:39:24.038Z"
         }
       ],
       "title": "Credits"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:56:53.485Z",
+    "last_updated": "2026-08-28T23:39:24.038Z",
     "original_repository_info": {
       "archived": false,
       "id": 659344221,
@@ -1059,7 +1124,7 @@
       "last_commit": "2026-07-20T16:42:37Z",
       "owner": "dbeley",
       "repo": "awesome-lemmy",
-      "stars": 363
+      "stars": 364
     },
     "original_repository_sha": "6ab4e3595d5410e34738c186c14c727019fd2fa4",
     "enhanced_repository": "enhansome/enhansome-lemmy",
