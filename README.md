@@ -4,7 +4,7 @@
 
 # Awesome Lemmy with stars
 
-A community driven list of useful apps, tools and websites for the [Lemmy](https://join-lemmy.org/) federated social network. This is not a catalog of every tools available, just a starting point for your explorations. Inspired by [awesome-scala](https://github.com/lauris/awesome-scala) ⭐ 9,239 | 🐛 14 | 🌐 Python | 📅 2024-09-20 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,771 | 🐛 18 | 🌐 Python | 📅 2026-08-25. Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,634 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 list.
+A community driven list of useful apps, tools and websites for the [Lemmy](https://join-lemmy.org/) federated social network. This is not a catalog of every tools available, just a starting point for your explorations. Inspired by [awesome-scala](https://github.com/lauris/awesome-scala) ⭐ 9,239 | 🐛 14 | 🌐 Python | 📅 2024-09-20 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,808 | 🐛 19 | 🌐 Python | 📅 2026-08-25. Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,634 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 list.
 
 Projects with over 500 stargazers are in bold.
 
@@ -167,4 +167,4 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

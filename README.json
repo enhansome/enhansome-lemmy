@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐀 A decentralised discussion platform for communities.",
+                "homepage": "https://join-lemmy.org",
                 "id": 170729130,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-18T05:19:19Z",
+                "open_issues": 128,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14571
+                "stars": 14571,
+                "topics": [
+                  "activitypub",
+                  "chat",
+                  "fediverse",
+                  "lemmy",
+                  "link-aggregator",
+                  "reddit",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -28,12 +41,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official web app for lemmy.",
+                "homepage": "https://join-lemmy.org/",
                 "id": 289611721,
                 "language": "CSS",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-18T03:43:14Z",
+                "open_issues": 64,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
-                "stars": 1009
+                "stars": 1009,
+                "topics": [
+                  "inferno",
+                  "lemmy",
+                  "link-aggregator",
+                  "reddit"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -44,12 +67,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A docker deploy for ansible",
+                "homepage": null,
                 "id": 415142556,
                 "language": "Jinja",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-01T09:37:41Z",
+                "open_issues": 8,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ansible",
-                "stars": 271
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -60,12 +88,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 947978586,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-14T04:09:47Z",
+                "open_issues": 2,
                 "owner": "LemmyNet",
                 "repo": "lemmy-plugins",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             }
@@ -83,12 +116,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Comparison of different Lemmy Instances",
+                "homepage": null,
                 "id": 650383373,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-11T07:37:52Z",
+                "open_issues": 9,
                 "owner": "maltfield",
                 "repo": "awesome-lemmy-instances",
-                "stars": 1015
+                "stars": 1015,
+                "topics": [
+                  "activitypub",
+                  "awesome-list",
+                  "fediverse",
+                  "lemmy",
+                  "link-aggregator",
+                  "reddit"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             }
@@ -106,12 +151,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A faster, prettier, and nicer fediverse client",
+                "homepage": "https://phtn.app",
                 "id": 658111463,
                 "language": "Svelte",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T04:04:44Z",
+                "open_issues": 90,
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 547
+                "stars": 547,
+                "topics": [
+                  "fediverse",
+                  "lemmy",
+                  "svelte"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -122,12 +176,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a familiar desktop experience for lemmy",
+                "homepage": null,
                 "id": 660768923,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-05-04T20:26:58Z",
+                "open_issues": 32,
                 "owner": "rystaf",
                 "repo": "mlmym",
-                "stars": 286
+                "stars": 286,
+                "topics": [
+                  "go",
+                  "lemmy",
+                  "lemmy-ui"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -138,12 +201,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A beautiful and convenient desktop-first alternate web UI for Lemmy.",
+                "homepage": "https://alexandrite.app",
                 "id": 658102086,
                 "language": "Svelte",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-02-14T23:39:34Z",
+                "open_issues": 58,
                 "owner": "sheodox",
                 "repo": "alexandrite",
-                "stars": 279
+                "stars": 279,
+                "topics": [
+                  "lemmy"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -154,12 +224,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quiblr is an intuitive, accessible, and modern interface to connect users to the fediverse",
+                "homepage": "https://quiblr.com",
                 "id": 844365661,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-11-05T05:21:54Z",
+                "open_issues": 1,
                 "owner": "Technicolor-Dreamcoat",
                 "repo": "Quiblr",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "fediverse",
+                  "fediverse-client",
+                  "lemmy",
+                  "lemmy-client",
+                  "lemmy-ui",
+                  "mastodon",
+                  "mastodon-client",
+                  "react-native",
+                  "reddit",
+                  "social-media",
+                  "social-network",
+                  "threads"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -170,12 +258,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lemmy client in Svelte",
+                "homepage": "https://slemmy.libdb.so",
                 "id": 654859245,
                 "language": "Svelte",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-04-06T01:40:31Z",
+                "open_issues": 8,
                 "owner": "diamondburned",
                 "repo": "slemmy",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "lemmy",
+                  "svelte"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -186,12 +282,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A lean-ish web client for Lemmy.",
+                "homepage": "https://natoboram.github.io/Leanish/",
                 "id": 660821938,
                 "language": "Svelte",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-03-01T07:27:22Z",
+                "open_issues": 51,
                 "owner": "NatoBoram",
                 "repo": "Leanish",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "fediverse",
+                  "lemmy"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -202,12 +306,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nemmy: The Neat Lemmy App for the Web (and phones later on)  This project is focused on building an App with the best possible User Experience.",
+                "homepage": "https://nemmy-mu.vercel.app/",
                 "id": 661451570,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-01-08T14:28:24Z",
+                "open_issues": 9,
                 "owner": "cr4yfish",
                 "repo": "nemmy",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "app-router",
+                  "fediverse",
+                  "lemmy",
+                  "next",
+                  "nextjs",
+                  "nextjs13",
+                  "react",
+                  "reactjs",
+                  "tailwind",
+                  "tailwindcss",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -218,12 +339,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A UI for Lemmy written in Svelte ",
+                "homepage": null,
                 "id": 652299255,
                 "language": "Svelte",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-18T21:27:08Z",
+                "open_issues": 1,
                 "owner": "ando818",
                 "repo": "lemmy-ui-svelte",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "capacitor",
+                  "fediverse",
+                  "lemmy",
+                  "svelte",
+                  "sveltekit"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             }
@@ -241,12 +373,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Voyager — a beautiful app for Lemmy and Piefed",
+                "homepage": "https://getvoyager.app",
                 "id": 652400579,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T10:25:49Z",
+                "open_issues": 256,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1806
+                "stars": 1806,
+                "topics": [
+                  "activitypub",
+                  "android-app",
+                  "capacitor",
+                  "fediverse",
+                  "ionic",
+                  "ios-app",
+                  "lemmy",
+                  "link-aggregator",
+                  "piefed",
+                  "pwa",
+                  "reactjs",
+                  "universal-app"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -257,12 +407,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A native Android app for Lemmy",
+                "homepage": null,
                 "id": 443636619,
                 "language": "Kotlin",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T10:26:53Z",
+                "open_issues": 172,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
-                "stars": 1313
+                "stars": 1313,
+                "topics": [
+                  "activitypub",
+                  "android",
+                  "android-application",
+                  "lemmy",
+                  "link-aggregator",
+                  "mobile-app"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -273,12 +435,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source cross-platform Lemmy & PieFed client for iOS and Android",
+                "homepage": "https://thunderapp.dev",
                 "id": 652266983,
                 "language": "Dart",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-22T03:44:41Z",
+                "open_issues": 270,
                 "owner": "thunder-app",
                 "repo": "thunder",
-                "stars": 1019
+                "stars": 1019,
+                "topics": [
+                  "android",
+                  "dart",
+                  "fediverse",
+                  "fediverse-client",
+                  "flutter",
+                  "ios",
+                  "lemmy",
+                  "piefed",
+                  "threadiverse"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -289,12 +466,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neon Modem Overdrive (https://tty.fail/mrus/neonmodem)",
+                "homepage": "https://neonmodem.com",
                 "id": 583532956,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T14:05:18Z",
+                "open_issues": 21,
                 "owner": "mrusme",
                 "repo": "neonmodem",
-                "stars": 701
+                "stars": 701,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "ascii-art",
+                  "bbs",
+                  "bulletin-board",
+                  "bulletin-board-system",
+                  "bulletinboard",
+                  "cli",
+                  "command-line",
+                  "command-line-tool",
+                  "discourse",
+                  "discourse-api",
+                  "forum",
+                  "forum-application",
+                  "hacker-news",
+                  "hackernews",
+                  "lemmy",
+                  "terminal",
+                  "terminal-app",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -305,12 +508,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native. Find us on the App Store and Google Play!",
+                "homepage": null,
                 "id": 652005788,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-03-16T19:05:58Z",
+                "open_issues": 109,
                 "owner": "Memmy-App",
                 "repo": "memmy",
-                "stars": 532
+                "stars": 532,
+                "topics": [
+                  "android",
+                  "expo",
+                  "ios",
+                  "lemmy",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -321,12 +535,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mlem for Lemmy",
+                "homepage": "https://lemmy.ml/c/mlemapp",
                 "id": 661451138,
                 "language": "Swift",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T01:39:09Z",
+                "open_issues": 409,
                 "owner": "mlemgroup",
                 "repo": "mlem",
-                "stars": 247
+                "stars": 247,
+                "topics": [
+                  "activitypub",
+                  "ios",
+                  "lemmy",
+                  "swift",
+                  "swiftui"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -337,12 +562,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An app for Mbin/Lemmy/PieFed, connecting you to the fediverse.",
+                "homepage": "https://interstellar.jwr.one",
                 "id": 730253649,
                 "language": "Dart",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-18T05:32:32Z",
+                "open_issues": 39,
                 "owner": "interstellar-app",
                 "repo": "interstellar",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "fediverse",
+                  "flutter",
+                  "kbin",
+                  "lemmy",
+                  "mbin",
+                  "piefed",
+                  "threadiverse"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -353,12 +591,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blorp – a Threadiverse client for Lemmy and PieFed. Web, iOS & macOS, and more!",
+                "homepage": "https://blorpblorp.xyz",
                 "id": 895862037,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-06-11T03:19:36Z",
+                "open_issues": 78,
                 "owner": "Blorp-Labs",
                 "repo": "blorp",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "activitypub",
+                  "capacitor",
+                  "fediverse",
+                  "ionic",
+                  "lemmy",
+                  "lemmy-client",
+                  "link-aggregator",
+                  "piefed",
+                  "tauri"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -369,12 +622,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Kotlin Multiplatform client for Lemmy",
+                "homepage": "https://livefasteattrashraccoon.github.io/RaccoonForLemmy",
                 "id": 818029460,
                 "language": "Kotlin",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T01:23:25Z",
+                "open_issues": 39,
                 "owner": "LiveFastEatTrashRaccoon",
                 "repo": "RaccoonForLemmy",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "android-app",
+                  "compose-multiplatform",
+                  "compose-ui",
+                  "coroutines",
+                  "fediverse-client",
+                  "jetbrains-compose",
+                  "kotlin",
+                  "kotlin-multiplatform",
+                  "lemmy-client",
+                  "lemmy-moderation",
+                  "mvi"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -385,12 +655,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command-line Fediverse client that doesn’t require a server",
+                "homepage": null,
                 "id": 602364957,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-22T02:53:07Z",
+                "open_issues": 2,
                 "owner": "BentonEdmondson",
                 "repo": "servitor",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "activitypub",
+                  "activitypub-client",
+                  "fediverse",
+                  "fediverse-client",
+                  "lemmy",
+                  "mastodon",
+                  "mastodon-client",
+                  "peertube"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -401,12 +685,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A mobile client for Lemmy",
+                "homepage": null,
                 "id": 661434634,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-26T08:29:02Z",
+                "open_issues": 8,
                 "owner": "idunnololz",
                 "repo": "summit-for-lemmy",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -417,12 +706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arctius is a simple and accessible mobile client for Lemmy",
+                "homepage": "https://lemmy.world/c/arctius",
                 "id": 654766678,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-06T08:45:38Z",
+                "open_issues": 6,
                 "owner": "nick-delirium",
                 "repo": "lemmy-fennec",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -433,12 +727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lemmios",
+                "homepage": null,
                 "id": 663432354,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-08-11T21:11:18Z",
+                "open_issues": 14,
                 "owner": "lavalleeale",
                 "repo": "Lemmios",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             }
@@ -456,12 +755,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-level Rust library for the Activitypub protocol",
+                "homepage": null,
                 "id": 499104392,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-06-11T08:27:00Z",
+                "open_issues": 4,
                 "owner": "LemmyNet",
                 "repo": "activitypub-federation-rust",
-                "stars": 494
+                "stars": 494,
+                "topics": [
+                  "activitypub",
+                  "federation",
+                  "lemmy",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -472,12 +781,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A javascript / typescript http and websocket client and type system for Lemmy.",
+                "homepage": null,
                 "id": 288795449,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-12T20:00:52Z",
+                "open_issues": 6,
                 "owner": "LemmyNet",
                 "repo": "lemmy-js-client",
-                "stars": 154
+                "stars": 154,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -488,12 +802,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python library for interacting with Lemmy",
+                "homepage": null,
                 "id": 653740206,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-10-16T12:37:23Z",
+                "open_issues": 7,
                 "owner": "db0",
                 "repo": "pythorhead",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -504,12 +823,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python package for accessing the LemmyHttp API",
+                "homepage": null,
                 "id": 655493582,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-03T13:17:24Z",
+                "open_issues": 9,
                 "owner": "Fedihosting-Foundation",
                 "repo": "plemmy",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "api",
+                  "lemmy"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -520,12 +847,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Swift client for Lemmy.",
+                "homepage": "https://rrainn.github.io/Lemmy-Swift-Client/documentation/lemmy_swift_client/",
                 "id": 652323035,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-11-12T00:23:00Z",
+                "open_issues": 3,
                 "owner": "rrainn",
                 "repo": "Lemmy-Swift-Client",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -536,12 +868,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust client for Lemmy",
+                "homepage": "https://join-lemmy.org",
                 "id": 749185112,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-01T18:23:35Z",
+                "open_issues": 3,
                 "owner": "LemmyNet",
                 "repo": "lemmy-client-rs",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "fediverse",
+                  "http-client",
+                  "lemmy",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -552,12 +894,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Kotlin Multiplatform library that provides a single unified API surface over multiple Lemmy server versions (0.18+, 0.19+, 1.0+)",
+                "homepage": null,
                 "id": 703764421,
                 "language": "Kotlin",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-16T16:20:39Z",
+                "open_issues": 6,
                 "owner": "MV-GH",
                 "repo": "LemmyBackwardsCompatibleAPI",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "kotlin",
+                  "kotlin-library",
+                  "kotlin-multiplatform",
+                  "lemmy"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -568,12 +922,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lemmy API Client built with Dart",
+                "homepage": null,
                 "id": 659277503,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2025-05-31T20:07:47Z",
+                "open_issues": 3,
                 "owner": "thunder-app",
                 "repo": "lemmy_api_client",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "api",
+                  "dart",
+                  "lemmy"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -584,12 +947,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 663032758,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-05-16T08:57:34Z",
+                "open_issues": 0,
                 "owner": "RikudouSage",
                 "repo": "LemmyApi",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "fediverse",
+                  "lemmy",
+                  "lemmy-api",
+                  "lemmy-bot",
+                  "lemmy-moderation",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             }
@@ -607,12 +982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small suite of tools to make Lemmy easier — now a Firefox WebExtension.",
+                "homepage": null,
                 "id": 1224697514,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-22T13:56:39Z",
+                "open_issues": 0,
                 "owner": "howdy-tsc",
                 "repo": "LemmyTools",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -623,12 +1003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RES-like script that allows you to easily navigate Lemmy with your keyboard ",
+                "homepage": null,
                 "id": 663799792,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-09T16:18:50Z",
+                "open_issues": 6,
                 "owner": "vmavromatis",
                 "repo": "Lemmy-keyboard-navigation",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -639,12 +1024,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Firefox extension which replaces the CSS styles on Lemmy instances to create a modern looking theme.",
+                "homepage": "https://addons.mozilla.org/firefox/addon/lemmy-modern-ui-theme",
                 "id": 653381961,
                 "language": "SCSS",
+                "license": "GPL-3.0",
                 "last_commit": "2024-10-22T17:25:25Z",
+                "open_issues": 0,
                 "owner": "pkrasicki",
                 "repo": "lemmy-modern-ui-theme-addon",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "browser-extension",
+                  "firefox",
+                  "firefox-addon",
+                  "javascript",
+                  "lemmy",
+                  "userscript"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             }
@@ -662,12 +1059,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Move your Lemmy settings from one account to another",
+                "homepage": null,
                 "id": 654778060,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-04-04T03:53:46Z",
+                "open_issues": 13,
                 "owner": "CMahaff",
                 "repo": "lasim",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "account",
+                  "lemmy",
+                  "migrator",
+                  "settings"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -678,12 +1085,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy Lemmy the easy way!",
+                "homepage": null,
                 "id": 653948963,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-22T01:25:57Z",
+                "open_issues": 0,
                 "owner": "ubergeek77",
                 "repo": "Lemmy-Easy-Deploy",
-                "stars": 146
+                "stars": 146,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -694,12 +1106,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instance and Community Explorer for Lemmy",
+                "homepage": "https://lemmyverse.net/",
                 "id": 652444510,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-02-02T12:11:06Z",
+                "open_issues": 16,
                 "owner": "tgxn",
                 "repo": "lemmy-explorer",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "fediverse",
+                  "lemmy",
+                  "lemmyverse",
+                  "mbin",
+                  "nodejs",
+                  "reactjs",
+                  "social-crawler",
+                  "social-media-analysis",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -710,12 +1137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Migrate your subscribed Lemmy communites to a new account",
+                "homepage": null,
                 "id": 654366789,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-09-16T16:55:48Z",
+                "open_issues": 1,
                 "owner": "wescode",
                 "repo": "lemmy_migrate",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -726,12 +1158,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bot library for Lemmy, the fediverse link aggregator.",
+                "homepage": "https://www.npmjs.com/package/lemmy-bot",
                 "id": 576026751,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-13T22:08:00Z",
+                "open_issues": 14,
                 "owner": "SleeplessOne1917",
                 "repo": "lemmy-bot",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "bot",
+                  "bots",
+                  "fediverse",
+                  "fediverse-bot",
+                  "lemmy",
+                  "lemmy-bot",
+                  "typescript",
+                  "typescript-library"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -742,12 +1188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A script that goes through images in storage and tries to prevent illegal or unethical content",
+                "homepage": null,
                 "id": 684000332,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-12-20T11:45:31Z",
+                "open_issues": 7,
                 "owner": "db0",
                 "repo": "fedi-safety",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -758,12 +1209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lemmy Community Seeder (LCS)",
+                "homepage": null,
                 "id": 658168518,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-12-25T00:23:06Z",
+                "open_issues": 6,
                 "owner": "Fmstrat",
                 "repo": "lcs",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -774,12 +1230,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lemmy/sublinks bot that watches rss feeds and posts new posts from them in communities",
+                "homepage": null,
                 "id": 656763356,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-02-21T14:54:29Z",
+                "open_issues": 12,
                 "owner": "programming-dot-dev",
                 "repo": "rss-bot",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "fediverse",
+                  "fediverse-bot",
+                  "javascript",
+                  "lemmy",
+                  "lemmy-bot",
+                  "programming-dot-dev",
+                  "sublinks",
+                  "sublinks-bot"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -790,12 +1260,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sync your Lemmy instance accounts. Tries to sync all accounts with the same communities, blocked users, blocked communities, etc.",
+                "homepage": null,
                 "id": 659581009,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-06T16:18:40Z",
+                "open_issues": 3,
                 "owner": "Ac5000",
                 "repo": "lemmy_account_sync",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "autopep8",
+                  "lemmy",
+                  "pylint",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -806,12 +1286,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A website mapping federation activity throughout the Fediverse. Quickly found out who has defederated your instance.",
+                "homepage": "https://defed-investigator.netlify.app",
                 "id": 680460013,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2024-01-18T11:36:45Z",
+                "open_issues": 0,
                 "owner": "basedcount",
                 "repo": "defed-investigator",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "activitypub",
+                  "akkoma",
+                  "defed",
+                  "federation",
+                  "fediverse",
+                  "lemmy",
+                  "lemmy-instance",
+                  "mastodon",
+                  "mbin",
+                  "pleroma"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -822,12 +1318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of utilities to help bring content and users from legacy social media networks into the fediverse",
+                "homepage": null,
                 "id": 682248343,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-20T11:11:41Z",
+                "open_issues": 49,
                 "owner": "mushroomlabs",
                 "repo": "fediverser",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -838,12 +1339,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "App for scheduling posts, pins/unpins and notifications about new content",
+                "homepage": "https://schedule.lemmings.world",
                 "id": 676739089,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-06-06T21:39:44Z",
+                "open_issues": 6,
                 "owner": "RikudouSage",
                 "repo": "LemmySchedule",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "lemmy",
+                  "php",
+                  "scheduler",
+                  "symfony"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -854,12 +1365,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lemmy Post Purger (LPP)",
+                "homepage": null,
                 "id": 658178904,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-12-24T19:44:17Z",
+                "open_issues": 7,
                 "owner": "Fmstrat",
                 "repo": "lpp",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -870,12 +1386,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Thrediverse bot fight against spam",
+                "homepage": null,
                 "id": 759392791,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-08T07:02:34Z",
+                "open_issues": 17,
                 "owner": "db0",
                 "repo": "threativore",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -886,12 +1407,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A redirect service for Lemmy which allows users to set their preferred instance.",
+                "homepage": null,
                 "id": 669287785,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-05-15T06:47:04Z",
+                "open_issues": 6,
                 "owner": "RikudouSage",
                 "repo": "lemmyverse.link",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "fediverse",
+                  "lemmy"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -902,12 +1431,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Federate Lemmy/Mbin communities automatically between instances",
+                "homepage": "https://lemmy-federate.com",
                 "id": 755308989,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-22T22:52:33Z",
+                "open_issues": 5,
                 "owner": "ismailkarsli",
                 "repo": "lemmy-federate",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -918,12 +1452,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A customizable Lemmy bot that replies to comments",
+                "homepage": "https://gitea.elara.ws/Elara6331/lemmy-reply-bot",
                 "id": 576817044,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2024-01-10T01:41:52Z",
+                "open_issues": 1,
                 "owner": "Elara6331",
                 "repo": "lemmy-reply-bot",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "go",
+                  "lemmy",
+                  "lemmy-bot"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -934,12 +1477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Lemmy bot written in Python using plemmy.",
+                "homepage": null,
                 "id": 656937322,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-13T11:16:10Z",
+                "open_issues": 12,
                 "owner": "noenfugler",
                 "repo": "LemmyModBot",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -950,12 +1498,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 348405727,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-02-26T09:44:08Z",
+                "open_issues": 1,
                 "owner": "LemmyNet",
                 "repo": "lemmy-stats-crawler",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -966,12 +1519,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A script that attempts to tag all posts from specific communities",
+                "homepage": null,
                 "id": 721678533,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-06-10T22:43:38Z",
+                "open_issues": 0,
                 "owner": "db0",
                 "repo": "lemmy-tagginator",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -982,12 +1540,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A moderation tool for Lemmy",
+                "homepage": "https://modder.lemmyverse.net/",
                 "id": 662900937,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-02T18:38:36Z",
+                "open_issues": 17,
                 "owner": "tgxn",
                 "repo": "lemmy-modder",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "lemmy",
+                  "lemmy-moderation",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -998,12 +1565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for https://recap.pangora.social",
+                "homepage": null,
                 "id": 738795393,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-01-05T21:13:10Z",
+                "open_issues": 0,
                 "owner": "PangoraWeb",
                 "repo": "pangora-recap",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -1014,12 +1586,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lemmy Notification app - for desktop atm",
+                "homepage": null,
                 "id": 740495719,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-02-27T12:27:09Z",
+                "open_issues": 2,
                 "owner": "arran4",
                 "repo": "lemmy_notify",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "desktop",
+                  "flutter",
+                  "lemmy"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             },
@@ -1030,12 +1611,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send notifications when Lemmy reports are made through Discord, ntfy.sh or as MQTT message",
+                "homepage": null,
                 "id": 1022650060,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-09-05T17:33:52Z",
+                "open_issues": 0,
                 "owner": "QazCetelic",
                 "repo": "lemmy-know",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "discord-bot",
+                  "lemmy",
+                  "lemmy-moderation",
+                  "lemmy-tool",
+                  "moderation",
+                  "mqtt"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             }
@@ -1053,12 +1646,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial Lemmy OpenAPI documentation",
+                "homepage": "https://mv-gh.github.io/lemmy_openapi_spec/",
                 "id": 677795408,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-04-30T20:31:41Z",
+                "open_issues": 6,
                 "owner": "MV-GH",
                 "repo": "lemmy_openapi_spec",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "api",
+                  "docs",
+                  "lemmy",
+                  "openapi"
+                ]
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
             }
@@ -1080,12 +1683,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fediverse compatible forum and link aggregator. Downstream from Lemmy. ",
+            "homepage": "https://programming.dev/c/pangora",
             "id": 680305274,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2024-01-23T20:22:29Z",
+            "open_issues": 6,
             "owner": "PangoraWeb",
             "repo": "pangora",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "activitypub",
+              "chat",
+              "fediverse",
+              "lemmy",
+              "link-aggregator",
+              "pangora",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T23:39:24.038Z"
         }
@@ -1102,12 +1718,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community driven list of useful Scala libraries, frameworks and software.",
+            "homepage": "https://lauris.github.io/scala/2014/08/27/awesome-scala/",
             "id": 21604505,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-20T08:21:10Z",
+            "open_issues": 14,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9239
+            "stars": 9239,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "scala",
+              "scala-library",
+              "scalajs"
+            ]
           },
           "first_seen": "2026-08-28T23:39:24.038Z"
         }
@@ -1116,15 +1743,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:39:24.038Z",
+    "last_updated": "2026-08-29T04:48:52.331Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
+      "homepage": null,
       "id": 659344221,
       "language": "Python",
+      "license": "Apache-2.0",
       "last_commit": "2026-07-20T16:42:37Z",
+      "open_issues": 6,
       "owner": "dbeley",
       "repo": "awesome-lemmy",
-      "stars": 364
+      "stars": 364,
+      "topics": [
+        "awesome-list",
+        "fediverse",
+        "lemmy"
+      ]
     },
     "original_repository_sha": "6ab4e3595d5410e34738c186c14c727019fd2fa4",
     "enhanced_repository": "enhansome/enhansome-lemmy",
