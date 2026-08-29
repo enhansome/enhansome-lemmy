@@ -160,7 +160,7 @@
                 "open_issues": 90,
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 547,
+                "stars": 548,
                 "topics": [
                   "fediverse",
                   "lemmy",
@@ -378,7 +378,7 @@
                 "id": 652400579,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-27T10:25:49Z",
+                "last_commit": "2026-08-29T07:02:06Z",
                 "open_issues": 256,
                 "owner": "aeharding",
                 "repo": "voyager",
@@ -416,7 +416,7 @@
                 "open_issues": 172,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
-                "stars": 1313,
+                "stars": 1314,
                 "topics": [
                   "activitypub",
                   "android",
@@ -444,7 +444,7 @@
                 "open_issues": 270,
                 "owner": "thunder-app",
                 "repo": "thunder",
-                "stars": 1019,
+                "stars": 1020,
                 "topics": [
                   "android",
                   "dart",
@@ -597,7 +597,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-06-11T03:19:36Z",
-                "open_issues": 78,
+                "open_issues": 79,
                 "owner": "Blorp-Labs",
                 "repo": "blorp",
                 "stars": 133,
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:48:52.331Z",
+    "last_updated": "2026-08-29T17:52:24.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
