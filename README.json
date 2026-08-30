@@ -21,7 +21,7 @@
                 "open_issues": 128,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14571,
+                "stars": 14573,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -378,8 +378,8 @@
                 "id": 652400579,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T07:02:06Z",
-                "open_issues": 256,
+                "last_commit": "2026-08-30T18:04:35Z",
+                "open_issues": 254,
                 "owner": "aeharding",
                 "repo": "voyager",
                 "stars": 1806,
@@ -541,7 +541,7 @@
                 "language": "Swift",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-28T01:39:09Z",
-                "open_issues": 409,
+                "open_issues": 411,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 247,
@@ -567,8 +567,8 @@
                 "id": 730253649,
                 "language": "Dart",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-18T05:32:32Z",
-                "open_issues": 39,
+                "last_commit": "2026-08-30T17:40:00Z",
+                "open_issues": 36,
                 "owner": "interstellar-app",
                 "repo": "interstellar",
                 "stars": 141,
@@ -600,7 +600,7 @@
                 "open_issues": 79,
                 "owner": "Blorp-Labs",
                 "repo": "blorp",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "activitypub",
                   "capacitor",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:52:24.246Z",
+    "last_updated": "2026-08-30T18:10:36.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
