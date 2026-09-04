@@ -21,7 +21,7 @@
                 "open_issues": 131,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14579,
+                "stars": 14577,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -210,7 +210,7 @@
                 "open_issues": 58,
                 "owner": "sheodox",
                 "repo": "alexandrite",
-                "stars": 279,
+                "stars": 278,
                 "topics": [
                   "lemmy"
                 ]
@@ -444,7 +444,7 @@
                 "open_issues": 270,
                 "owner": "thunder-app",
                 "repo": "thunder",
-                "stars": 1021,
+                "stars": 1020,
                 "topics": [
                   "android",
                   "dart",
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T01:32:13Z",
-                "open_issues": 409,
+                "last_commit": "2026-09-04T15:44:30Z",
+                "open_issues": 410,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 247,
@@ -568,7 +568,7 @@
                 "language": "Dart",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-03T13:13:00Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "interstellar-app",
                 "repo": "interstellar",
                 "stars": 142,
@@ -1727,7 +1727,7 @@
             "open_issues": 14,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9241,
+            "stars": 9242,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:00:34.006Z",
+    "last_updated": "2026-09-04T17:46:00.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
