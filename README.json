@@ -21,7 +21,7 @@
                 "open_issues": 131,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14578,
+                "stars": 14580,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -382,7 +382,7 @@
                 "open_issues": 255,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1807,
+                "stars": 1808,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -568,7 +568,7 @@
                 "language": "Dart",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-03T13:13:00Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "interstellar-app",
                 "repo": "interstellar",
                 "stars": 142,
@@ -1111,8 +1111,8 @@
                 "id": 652444510,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-05T13:53:33Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-06T15:39:55Z",
+                "open_issues": 16,
                 "owner": "tgxn",
                 "repo": "lemmy-explorer",
                 "stars": 146,
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:55:37.333Z",
+    "last_updated": "2026-09-06T17:19:49.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
