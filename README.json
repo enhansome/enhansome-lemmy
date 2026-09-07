@@ -21,7 +21,7 @@
                 "open_issues": 131,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14580,
+                "stars": 14586,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -125,7 +125,7 @@
                 "open_issues": 9,
                 "owner": "maltfield",
                 "repo": "awesome-lemmy-instances",
-                "stars": 1015,
+                "stars": 1014,
                 "topics": [
                   "activitypub",
                   "awesome-list",
@@ -160,7 +160,7 @@
                 "open_issues": 90,
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 548,
+                "stars": 549,
                 "topics": [
                   "fediverse",
                   "lemmy",
@@ -378,7 +378,7 @@
                 "id": 652400579,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-31T02:21:15Z",
+                "last_commit": "2026-09-06T18:31:50Z",
                 "open_issues": 255,
                 "owner": "aeharding",
                 "repo": "voyager",
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T15:44:30Z",
-                "open_issues": 410,
+                "last_commit": "2026-09-07T18:23:19Z",
+                "open_issues": 412,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 247,
@@ -690,7 +690,7 @@
                 "id": 661434634,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-02T07:41:37Z",
+                "last_commit": "2026-09-07T08:21:23Z",
                 "open_issues": 8,
                 "owner": "idunnololz",
                 "repo": "summit-for-lemmy",
@@ -1111,8 +1111,8 @@
                 "id": 652444510,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-06T15:39:55Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-07T10:27:20Z",
+                "open_issues": 17,
                 "owner": "tgxn",
                 "repo": "lemmy-explorer",
                 "stars": 146,
@@ -1416,7 +1416,7 @@
                 "open_issues": 6,
                 "owner": "RikudouSage",
                 "repo": "lemmyverse.link",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "fediverse",
                   "lemmy"
@@ -1727,7 +1727,7 @@
             "open_issues": 14,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9242,
+            "stars": 9241,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:19:49.794Z",
+    "last_updated": "2026-09-07T18:50:39.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
