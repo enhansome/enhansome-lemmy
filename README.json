@@ -17,11 +17,11 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-18T05:19:19Z",
-                "open_issues": 132,
+                "last_commit": "2026-09-09T16:41:53Z",
+                "open_issues": 138,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14586,
+                "stars": 14590,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -46,11 +46,11 @@
                 "id": 289611721,
                 "language": "CSS",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-08T15:31:18Z",
-                "open_issues": 62,
+                "last_commit": "2026-09-09T16:40:53Z",
+                "open_issues": 61,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
-                "stars": 1009,
+                "stars": 1008,
                 "topics": [
                   "inferno",
                   "lemmy",
@@ -125,7 +125,7 @@
                 "open_issues": 9,
                 "owner": "maltfield",
                 "repo": "awesome-lemmy-instances",
-                "stars": 1014,
+                "stars": 1013,
                 "topics": [
                   "activitypub",
                   "awesome-list",
@@ -382,7 +382,7 @@
                 "open_issues": 255,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1808,
+                "stars": 1809,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -412,8 +412,8 @@
                 "id": 443636619,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-08T15:03:30Z",
-                "open_issues": 173,
+                "last_commit": "2026-09-08T20:59:23Z",
+                "open_issues": 171,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
                 "stars": 1315,
@@ -444,7 +444,7 @@
                 "open_issues": 269,
                 "owner": "thunder-app",
                 "repo": "thunder",
-                "stars": 1020,
+                "stars": 1021,
                 "topics": [
                   "android",
                   "dart",
@@ -475,7 +475,7 @@
                 "open_issues": 21,
                 "owner": "mrusme",
                 "repo": "neonmodem",
-                "stars": 701,
+                "stars": 702,
                 "topics": [
                   "api",
                   "api-client",
@@ -736,7 +736,7 @@
                 "open_issues": 14,
                 "owner": "lavalleeale",
                 "repo": "Lemmios",
-                "stars": 17,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -786,8 +786,8 @@
                 "id": 288795449,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-08T12:32:00Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-09T15:31:33Z",
+                "open_issues": 7,
                 "owner": "LemmyNet",
                 "repo": "lemmy-js-client",
                 "stars": 154,
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:03:31.137Z",
+    "last_updated": "2026-09-09T17:57:14.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
@@ -1755,7 +1755,7 @@
       "open_issues": 6,
       "owner": "dbeley",
       "repo": "awesome-lemmy",
-      "stars": 365,
+      "stars": 363,
       "topics": [
         "awesome-list",
         "fediverse",
