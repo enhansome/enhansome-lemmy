@@ -17,11 +17,11 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-11T15:08:09Z",
+                "last_commit": "2026-09-12T01:51:54Z",
                 "open_issues": 126,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14592,
+                "stars": 14594,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -475,7 +475,7 @@
                 "open_issues": 21,
                 "owner": "mrusme",
                 "repo": "neonmodem",
-                "stars": 702,
+                "stars": 698,
                 "topics": [
                   "api",
                   "api-client",
@@ -600,7 +600,7 @@
                 "open_issues": 79,
                 "owner": "Blorp-Labs",
                 "repo": "blorp",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "activitypub",
                   "capacitor",
@@ -1094,7 +1094,7 @@
                 "open_issues": 0,
                 "owner": "ubergeek77",
                 "repo": "Lemmy-Easy-Deploy",
-                "stars": 146,
+                "stars": 145,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:52:39.928Z",
+    "last_updated": "2026-09-12T17:25:04.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
