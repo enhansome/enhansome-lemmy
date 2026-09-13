@@ -21,7 +21,7 @@
                 "open_issues": 126,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14594,
+                "stars": 14595,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -378,7 +378,7 @@
                 "id": 652400579,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-07T19:35:06Z",
+                "last_commit": "2026-09-13T04:43:14Z",
                 "open_issues": 255,
                 "owner": "aeharding",
                 "repo": "voyager",
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T19:23:57Z",
-                "open_issues": 412,
+                "last_commit": "2026-09-13T17:28:33Z",
+                "open_issues": 415,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 248,
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:25:04.473Z",
+    "last_updated": "2026-09-13T17:36:34.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
