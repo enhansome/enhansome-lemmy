@@ -21,7 +21,7 @@
                 "open_issues": 126,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14594,
+                "stars": 14596,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -157,7 +157,7 @@
                 "language": "Svelte",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-02T10:44:19Z",
-                "open_issues": 90,
+                "open_issues": 89,
                 "owner": "Xyphyn",
                 "repo": "photon",
                 "stars": 550,
@@ -416,7 +416,7 @@
                 "open_issues": 171,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
-                "stars": 1315,
+                "stars": 1317,
                 "topics": [
                   "activitypub",
                   "android",
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-14T16:43:45Z",
-                "open_issues": 416,
+                "last_commit": "2026-09-15T08:29:18Z",
+                "open_issues": 408,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 248,
@@ -1012,7 +1012,7 @@
                 "open_issues": 6,
                 "owner": "vmavromatis",
                 "repo": "Lemmy-keyboard-navigation",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:34:25.755Z",
+    "last_updated": "2026-09-15T18:26:53.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
