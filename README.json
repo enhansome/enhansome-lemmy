@@ -17,11 +17,11 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-12T01:51:54Z",
-                "open_issues": 126,
+                "last_commit": "2026-09-16T11:24:40Z",
+                "open_issues": 124,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14596,
+                "stars": 14599,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -160,7 +160,7 @@
                 "open_issues": 89,
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 550,
+                "stars": 551,
                 "topics": [
                   "fediverse",
                   "lemmy",
@@ -540,7 +540,7 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-15T08:29:18Z",
+                "last_commit": "2026-09-16T18:02:11Z",
                 "open_issues": 408,
                 "owner": "mlemgroup",
                 "repo": "mlem",
@@ -790,7 +790,7 @@
                 "open_issues": 6,
                 "owner": "LemmyNet",
                 "repo": "lemmy-js-client",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -811,7 +811,7 @@
                 "open_issues": 7,
                 "owner": "db0",
                 "repo": "pythorhead",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -877,7 +877,7 @@
                 "open_issues": 3,
                 "owner": "LemmyNet",
                 "repo": "lemmy-client-rs",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "fediverse",
                   "http-client",
@@ -903,7 +903,7 @@
                 "open_issues": 6,
                 "owner": "MV-GH",
                 "repo": "LemmyBackwardsCompatibleAPI",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "api",
                   "api-client",
@@ -931,7 +931,7 @@
                 "open_issues": 3,
                 "owner": "thunder-app",
                 "repo": "lemmy_api_client",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "api",
                   "dart",
@@ -1724,10 +1724,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-09-20T08:21:10Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9242,
+            "stars": 9245,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:26:53.337Z",
+    "last_updated": "2026-09-16T18:23:37.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
