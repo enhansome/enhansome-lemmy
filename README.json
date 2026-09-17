@@ -160,7 +160,7 @@
                 "open_issues": 89,
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 551,
+                "stars": 552,
                 "topics": [
                   "fediverse",
                   "lemmy",
@@ -517,7 +517,7 @@
                 "open_issues": 109,
                 "owner": "Memmy-App",
                 "repo": "memmy",
-                "stars": 533,
+                "stars": 532,
                 "topics": [
                   "android",
                   "expo",
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T18:02:11Z",
-                "open_issues": 408,
+                "last_commit": "2026-09-17T16:56:08Z",
+                "open_issues": 411,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 248,
@@ -597,7 +597,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-06-11T03:19:36Z",
-                "open_issues": 79,
+                "open_issues": 80,
                 "owner": "Blorp-Labs",
                 "repo": "blorp",
                 "stars": 135,
@@ -991,7 +991,7 @@
                 "open_issues": 0,
                 "owner": "howdy-tsc",
                 "repo": "LemmyTools",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -1727,7 +1727,7 @@
             "open_issues": 15,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9245,
+            "stars": 9244,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:23:37.931Z",
+    "last_updated": "2026-09-17T18:30:14.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
