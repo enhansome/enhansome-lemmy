@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14599,
+                "stars": 14601,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -440,8 +440,8 @@
                 "id": 652266983,
                 "language": "Dart",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-02T20:21:38Z",
-                "open_issues": 270,
+                "last_commit": "2026-09-17T19:19:47Z",
+                "open_issues": 271,
                 "owner": "thunder-app",
                 "repo": "thunder",
                 "stars": 1020,
@@ -475,7 +475,7 @@
                 "open_issues": 21,
                 "owner": "mrusme",
                 "repo": "neonmodem",
-                "stars": 698,
+                "stars": 697,
                 "topics": [
                   "api",
                   "api-client",
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T16:56:08Z",
-                "open_issues": 411,
+                "last_commit": "2026-09-18T16:49:03Z",
+                "open_issues": 406,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 248,
@@ -764,7 +764,7 @@
                 "open_issues": 4,
                 "owner": "LemmyNet",
                 "repo": "activitypub-federation-rust",
-                "stars": 495,
+                "stars": 496,
                 "topics": [
                   "activitypub",
                   "federation",
@@ -1727,7 +1727,7 @@
             "open_issues": 15,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9244,
+            "stars": 9245,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:30:14.619Z",
+    "last_updated": "2026-09-18T17:50:50.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
