@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14601,
+                "stars": 14604,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -47,7 +47,7 @@
                 "language": "CSS",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-14T14:03:07Z",
-                "open_issues": 55,
+                "open_issues": 56,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
                 "stars": 1008,
@@ -125,7 +125,7 @@
                 "open_issues": 9,
                 "owner": "maltfield",
                 "repo": "awesome-lemmy-instances",
-                "stars": 1013,
+                "stars": 1014,
                 "topics": [
                   "activitypub",
                   "awesome-list",
@@ -379,10 +379,10 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-13T04:43:14Z",
-                "open_issues": 256,
+                "open_issues": 257,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1810,
+                "stars": 1811,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -416,7 +416,7 @@
                 "open_issues": 171,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
-                "stars": 1317,
+                "stars": 1318,
                 "topics": [
                   "activitypub",
                   "android",
@@ -540,11 +540,11 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T16:49:03Z",
-                "open_issues": 406,
+                "last_commit": "2026-09-19T14:22:14Z",
+                "open_issues": 420,
                 "owner": "mlemgroup",
                 "repo": "mlem",
-                "stars": 248,
+                "stars": 249,
                 "topics": [
                   "activitypub",
                   "ios",
@@ -764,7 +764,7 @@
                 "open_issues": 4,
                 "owner": "LemmyNet",
                 "repo": "activitypub-federation-rust",
-                "stars": 496,
+                "stars": 497,
                 "topics": [
                   "activitypub",
                   "federation",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:50:50.000Z",
+    "last_updated": "2026-09-19T17:24:49.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
