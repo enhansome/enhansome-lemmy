@@ -21,7 +21,7 @@
                 "open_issues": 124,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14604,
+                "stars": 14606,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -382,7 +382,7 @@
                 "open_issues": 257,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1811,
+                "stars": 1812,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -441,7 +441,7 @@
                 "language": "Dart",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-17T19:19:47Z",
-                "open_issues": 271,
+                "open_issues": 272,
                 "owner": "thunder-app",
                 "repo": "thunder",
                 "stars": 1020,
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T14:22:14Z",
-                "open_issues": 420,
+                "last_commit": "2026-09-20T13:30:50Z",
+                "open_issues": 421,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 249,
@@ -631,7 +631,7 @@
                 "open_issues": 40,
                 "owner": "LiveFastEatTrashRaccoon",
                 "repo": "RaccoonForLemmy",
-                "stars": 104,
+                "stars": 105,
                 "topics": [
                   "android-app",
                   "compose-multiplatform",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:24:49.857Z",
+    "last_updated": "2026-09-20T17:38:30.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
