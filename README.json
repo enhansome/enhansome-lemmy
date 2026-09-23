@@ -379,7 +379,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-13T04:43:14Z",
-                "open_issues": 257,
+                "open_issues": 258,
                 "owner": "aeharding",
                 "repo": "voyager",
                 "stars": 1813,
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T16:51:38Z",
-                "open_issues": 424,
+                "last_commit": "2026-09-23T12:26:24Z",
+                "open_issues": 426,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 249,
@@ -567,8 +567,8 @@
                 "id": 730253649,
                 "language": "Dart",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-03T13:13:00Z",
-                "open_issues": 37,
+                "last_commit": "2026-09-22T23:41:20Z",
+                "open_issues": 38,
                 "owner": "interstellar-app",
                 "repo": "interstellar",
                 "stars": 144,
@@ -600,7 +600,7 @@
                 "open_issues": 80,
                 "owner": "Blorp-Labs",
                 "repo": "blorp",
-                "stars": 135,
+                "stars": 136,
                 "topics": [
                   "activitypub",
                   "capacitor",
@@ -664,7 +664,7 @@
                 "open_issues": 2,
                 "owner": "BentonEdmondson",
                 "repo": "servitor",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "activitypub",
                   "activitypub-client",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:15:04.773Z",
+    "last_updated": "2026-09-23T18:35:50.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
