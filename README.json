@@ -18,10 +18,10 @@
                 "language": "Rust",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-22T10:10:02Z",
-                "open_issues": 124,
+                "open_issues": 125,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14606,
+                "stars": 14609,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -50,7 +50,7 @@
                 "open_issues": 55,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
-                "stars": 1008,
+                "stars": 1010,
                 "topics": [
                   "inferno",
                   "lemmy",
@@ -156,11 +156,11 @@
                 "id": 658111463,
                 "language": "Svelte",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-02T10:44:19Z",
+                "last_commit": "2026-09-23T20:50:43Z",
                 "open_issues": 89,
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 552,
+                "stars": 551,
                 "topics": [
                   "fediverse",
                   "lemmy",
@@ -233,7 +233,7 @@
                 "open_issues": 1,
                 "owner": "Technicolor-Dreamcoat",
                 "repo": "Quiblr",
-                "stars": 69,
+                "stars": 68,
                 "topics": [
                   "fediverse",
                   "fediverse-client",
@@ -267,7 +267,7 @@
                 "open_issues": 8,
                 "owner": "diamondburned",
                 "repo": "slemmy",
-                "stars": 56,
+                "stars": 54,
                 "topics": [
                   "lemmy",
                   "svelte"
@@ -382,7 +382,7 @@
                 "open_issues": 258,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1813,
+                "stars": 1815,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -416,7 +416,7 @@
                 "open_issues": 171,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
-                "stars": 1317,
+                "stars": 1319,
                 "topics": [
                   "activitypub",
                   "android",
@@ -541,10 +541,10 @@
                 "language": "Swift",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-23T12:26:24Z",
-                "open_issues": 426,
+                "open_issues": 428,
                 "owner": "mlemgroup",
                 "repo": "mlem",
-                "stars": 249,
+                "stars": 248,
                 "topics": [
                   "activitypub",
                   "ios",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:35:50.224Z",
+    "last_updated": "2026-09-24T18:38:18.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
