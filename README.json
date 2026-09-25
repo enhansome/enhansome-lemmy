@@ -17,11 +17,11 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-22T10:10:02Z",
-                "open_issues": 125,
+                "last_commit": "2026-09-25T09:34:41Z",
+                "open_issues": 123,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14609,
+                "stars": 14612,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -567,7 +567,7 @@
                 "id": 730253649,
                 "language": "Dart",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-22T23:41:20Z",
+                "last_commit": "2026-09-24T23:20:23Z",
                 "open_issues": 38,
                 "owner": "interstellar-app",
                 "repo": "interstellar",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:38:18.210Z",
+    "last_updated": "2026-09-25T18:50:48.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
