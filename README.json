@@ -18,7 +18,7 @@
                 "language": "Rust",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-25T09:34:41Z",
-                "open_issues": 123,
+                "open_issues": 125,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
                 "stars": 14612,
@@ -1727,7 +1727,7 @@
             "open_issues": 15,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9245,
+            "stars": 9244,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:50:48.010Z",
+    "last_updated": "2026-09-26T17:58:11.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",

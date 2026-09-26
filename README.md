@@ -4,7 +4,7 @@
 
 # Awesome Lemmy with stars
 
-A community driven list of useful apps, tools and websites for the [Lemmy](https://join-lemmy.org/) federated social network. This is not a catalog of every tools available, just a starting point for your explorations. Inspired by [awesome-scala](https://github.com/lauris/awesome-scala) ⭐ 9,245 | 🐛 15 | 🌐 Python | 📅 2024-09-20 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 322,956 | 🐛 20 | 🌐 Python | 📅 2026-09-25. Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,688 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
+A community driven list of useful apps, tools and websites for the [Lemmy](https://join-lemmy.org/) federated social network. This is not a catalog of every tools available, just a starting point for your explorations. Inspired by [awesome-scala](https://github.com/lauris/awesome-scala) ⭐ 9,244 | 🐛 15 | 🌐 Python | 📅 2024-09-20 and [awesome-python](https://github.com/vinta/awesome-python) ⭐ 323,233 | 🐛 21 | 🌐 Python | 📅 2026-09-25. Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,688 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
 
 Projects with over 500 stargazers are in bold.
 
@@ -36,7 +36,7 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
 
 | Name                                                                                                     | Description                                             | GitHub Activity                                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**lemmy**](https://github.com/LemmyNet/lemmy) ⭐ 14,612 \| 🐛 123 \| 🌐 Rust \| 📅 2026-09-25            | 🐀 A decentralised discussion platform for communities. | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy)                 |
+| [**lemmy**](https://github.com/LemmyNet/lemmy) ⭐ 14,612 \| 🐛 125 \| 🌐 Rust \| 📅 2026-09-25            | 🐀 A decentralised discussion platform for communities. | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy)                 |
 | [**lemmy-ui**](https://github.com/LemmyNet/lemmy-ui) ⭐ 1,010 \| 🐛 55 \| 🌐 CSS \| 📅 2026-09-21         | The official web app for lemmy.                         | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy-ui) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy-ui)           |
 | [lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible) ⭐ 271 \| 🐛 8 \| 🌐 Jinja \| 📅 2026-08-01    | A docker deploy for ansible                             | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy-ansible) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy-ansible) |
 | [lemmy-plugins](https://github.com/LemmyNet/lemmy-plugins) ⭐ 3 \| 🐛 2 \| 🌐 TypeScript \| 📅 2026-07-14 |                                                         | ![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy-plugins) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/LemmyNet/lemmy-plugins) |
@@ -163,8 +163,8 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
 
 ## Credits
 
-* [awesome-scala](https://github.com/lauris/awesome-scala) ⭐ 9,245 | 🐛 15 | 🌐 Python | 📅 2024-09-20 - This project was originally forked from awesome-scala.
+* [awesome-scala](https://github.com/lauris/awesome-scala) ⭐ 9,244 | 🐛 15 | 🌐 Python | 📅 2024-09-20 - This project was originally forked from awesome-scala.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
