@@ -21,7 +21,7 @@
                 "open_issues": 125,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14612,
+                "stars": 14614,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -47,7 +47,7 @@
                 "language": "CSS",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-21T08:15:06Z",
-                "open_issues": 55,
+                "open_issues": 57,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
                 "stars": 1010,
@@ -156,11 +156,11 @@
                 "id": 658111463,
                 "language": "Svelte",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-23T20:50:43Z",
-                "open_issues": 89,
+                "last_commit": "2026-09-27T01:41:16Z",
+                "open_issues": 91,
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 551,
+                "stars": 552,
                 "topics": [
                   "fediverse",
                   "lemmy",
@@ -444,7 +444,7 @@
                 "open_issues": 272,
                 "owner": "thunder-app",
                 "repo": "thunder",
-                "stars": 1020,
+                "stars": 1021,
                 "topics": [
                   "android",
                   "dart",
@@ -1727,7 +1727,7 @@
             "open_issues": 15,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9244,
+            "stars": 9245,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:58:11.163Z",
+    "last_updated": "2026-09-27T18:37:55.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
