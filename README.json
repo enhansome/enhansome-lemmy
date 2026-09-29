@@ -21,7 +21,7 @@
                 "open_issues": 125,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14614,
+                "stars": 14612,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -93,7 +93,7 @@
                 "id": 947978586,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-28T10:33:49Z",
+                "last_commit": "2026-09-29T11:08:37Z",
                 "open_issues": 2,
                 "owner": "LemmyNet",
                 "repo": "lemmy-plugins",
@@ -156,11 +156,11 @@
                 "id": 658111463,
                 "language": "Svelte",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-27T01:41:16Z",
+                "last_commit": "2026-09-29T03:27:18Z",
                 "open_issues": 91,
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 552,
+                "stars": 551,
                 "topics": [
                   "fediverse",
                   "lemmy",
@@ -233,7 +233,7 @@
                 "open_issues": 1,
                 "owner": "Technicolor-Dreamcoat",
                 "repo": "Quiblr",
-                "stars": 68,
+                "stars": 67,
                 "topics": [
                   "fediverse",
                   "fediverse-client",
@@ -382,7 +382,7 @@
                 "open_issues": 258,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1816,
+                "stars": 1817,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -444,7 +444,7 @@
                 "open_issues": 272,
                 "owner": "thunder-app",
                 "repo": "thunder",
-                "stars": 1021,
+                "stars": 1020,
                 "topics": [
                   "android",
                   "dart",
@@ -541,10 +541,10 @@
                 "language": "Swift",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-23T12:26:24Z",
-                "open_issues": 428,
+                "open_issues": 438,
                 "owner": "mlemgroup",
                 "repo": "mlem",
-                "stars": 246,
+                "stars": 247,
                 "topics": [
                   "activitypub",
                   "ios",
@@ -764,7 +764,7 @@
                 "open_issues": 4,
                 "owner": "LemmyNet",
                 "repo": "activitypub-federation-rust",
-                "stars": 497,
+                "stars": 498,
                 "topics": [
                   "activitypub",
                   "federation",
@@ -1727,7 +1727,7 @@
             "open_issues": 15,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9246,
+            "stars": 9247,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:44:48.017Z",
+    "last_updated": "2026-09-29T19:36:20.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
