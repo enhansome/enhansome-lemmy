@@ -46,7 +46,7 @@
                 "id": 289611721,
                 "language": "CSS",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-01T18:51:48Z",
+                "last_commit": "2026-10-01T20:28:55Z",
                 "open_issues": 59,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
@@ -73,7 +73,7 @@
                 "language": "Jinja",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-01T18:43:24Z",
-                "open_issues": 8,
+                "open_issues": 10,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ansible",
                 "stars": 271,
@@ -210,7 +210,7 @@
                 "open_issues": 59,
                 "owner": "sheodox",
                 "repo": "alexandrite",
-                "stars": 278,
+                "stars": 279,
                 "topics": [
                   "lemmy"
                 ]
@@ -378,8 +378,8 @@
                 "id": 652400579,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-13T04:43:14Z",
-                "open_issues": 258,
+                "last_commit": "2026-10-02T03:39:47Z",
+                "open_issues": 257,
                 "owner": "aeharding",
                 "repo": "voyager",
                 "stars": 1817,
@@ -540,11 +540,11 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T08:12:54Z",
-                "open_issues": 438,
+                "last_commit": "2026-10-02T18:56:59Z",
+                "open_issues": 447,
                 "owner": "mlemgroup",
                 "repo": "mlem",
-                "stars": 247,
+                "stars": 248,
                 "topics": [
                   "activitypub",
                   "ios",
@@ -664,7 +664,7 @@
                 "open_issues": 2,
                 "owner": "BentonEdmondson",
                 "repo": "servitor",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "activitypub",
                   "activitypub-client",
@@ -786,7 +786,7 @@
                 "id": 288795449,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-01T18:46:19Z",
+                "last_commit": "2026-10-02T00:22:16Z",
                 "open_issues": 7,
                 "owner": "LemmyNet",
                 "repo": "lemmy-js-client",
@@ -1727,7 +1727,7 @@
             "open_issues": 15,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9247,
+            "stars": 9248,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:46:39.375Z",
+    "last_updated": "2026-10-02T19:29:20.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
