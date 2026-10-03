@@ -21,7 +21,7 @@
                 "open_issues": 126,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14614,
+                "stars": 14613,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -84,7 +84,7 @@
             {
               "node_type": "item",
               "title": "lemmy-plugins",
-              "description": null,
+              "description": "LemmyNet/lemmy-plugins",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -382,7 +382,7 @@
                 "open_issues": 257,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1817,
+                "stars": 1816,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -943,7 +943,7 @@
             {
               "node_type": "item",
               "title": "LemmyApi",
-              "description": null,
+              "description": "RikudouSage/LemmyApi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1494,7 +1494,7 @@
             {
               "node_type": "item",
               "title": "lemmy-stats-crawler",
-              "description": null,
+              "description": "LemmyNet/lemmy-stats-crawler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:29:20.403Z",
+    "last_updated": "2026-10-03T04:54:46.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
