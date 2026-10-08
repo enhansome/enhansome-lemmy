@@ -17,11 +17,11 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-07T18:17:40Z",
+                "last_commit": "2026-10-08T16:22:26Z",
                 "open_issues": 124,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14616,
+                "stars": 14617,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -50,7 +50,7 @@
                 "open_issues": 53,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
-                "stars": 1011,
+                "stars": 1013,
                 "topics": [
                   "inferno",
                   "lemmy",
@@ -97,7 +97,7 @@
                 "open_issues": 1,
                 "owner": "LemmyNet",
                 "repo": "lemmy-plugins",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -416,7 +416,7 @@
                 "open_issues": 171,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
-                "stars": 1320,
+                "stars": 1322,
                 "topics": [
                   "activitypub",
                   "android",
@@ -444,7 +444,7 @@
                 "open_issues": 273,
                 "owner": "thunder-app",
                 "repo": "thunder",
-                "stars": 1023,
+                "stars": 1024,
                 "topics": [
                   "android",
                   "dart",
@@ -471,11 +471,11 @@
                 "id": 583532956,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T10:38:05Z",
+                "last_commit": "2026-10-08T11:31:37Z",
                 "open_issues": 10,
                 "owner": "mrusme",
                 "repo": "neonmodem",
-                "stars": 695,
+                "stars": 696,
                 "topics": [
                   "api",
                   "api-client",
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-07T16:42:36Z",
-                "open_issues": 449,
+                "last_commit": "2026-10-08T12:49:00Z",
+                "open_issues": 446,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 249,
@@ -877,7 +877,7 @@
                 "open_issues": 3,
                 "owner": "LemmyNet",
                 "repo": "lemmy-client-rs",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "fediverse",
                   "http-client",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:07:13.683Z",
+    "last_updated": "2026-10-08T20:04:43.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
