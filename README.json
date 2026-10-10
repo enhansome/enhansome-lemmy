@@ -21,7 +21,7 @@
                 "open_issues": 125,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14619,
+                "stars": 14621,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -160,7 +160,7 @@
                 "open_issues": 92,
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 555,
+                "stars": 556,
                 "topics": [
                   "fediverse",
                   "lemmy",
@@ -416,7 +416,7 @@
                 "open_issues": 171,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
-                "stars": 1322,
+                "stars": 1323,
                 "topics": [
                   "activitypub",
                   "android",
@@ -471,7 +471,7 @@
                 "id": 583532956,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T14:17:41Z",
+                "last_commit": "2026-10-10T13:15:09Z",
                 "open_issues": 10,
                 "owner": "mrusme",
                 "repo": "neonmodem",
@@ -541,7 +541,7 @@
                 "language": "Swift",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-09T17:36:42Z",
-                "open_issues": 453,
+                "open_issues": 456,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 249,
@@ -568,7 +568,7 @@
                 "language": "Dart",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-24T23:20:23Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "interstellar-app",
                 "repo": "interstellar",
                 "stars": 143,
@@ -811,7 +811,7 @@
                 "open_issues": 7,
                 "owner": "db0",
                 "repo": "pythorhead",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -1727,7 +1727,7 @@
             "open_issues": 15,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9248,
+            "stars": 9249,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:41:39.353Z",
+    "last_updated": "2026-10-10T18:48:43.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
