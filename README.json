@@ -17,11 +17,11 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-09T16:29:06Z",
-                "open_issues": 125,
+                "last_commit": "2026-10-10T20:10:31Z",
+                "open_issues": 127,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14621,
+                "stars": 14624,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -125,7 +125,7 @@
                 "open_issues": 9,
                 "owner": "maltfield",
                 "repo": "awesome-lemmy-instances",
-                "stars": 1013,
+                "stars": 1015,
                 "topics": [
                   "activitypub",
                   "awesome-list",
@@ -160,7 +160,7 @@
                 "open_issues": 92,
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 556,
+                "stars": 557,
                 "topics": [
                   "fediverse",
                   "lemmy",
@@ -233,7 +233,7 @@
                 "open_issues": 1,
                 "owner": "Technicolor-Dreamcoat",
                 "repo": "Quiblr",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "fediverse",
                   "fediverse-client",
@@ -378,11 +378,11 @@
                 "id": 652400579,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-07T05:25:43Z",
-                "open_issues": 258,
+                "last_commit": "2026-10-11T18:28:35Z",
+                "open_issues": 259,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1816,
+                "stars": 1817,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -416,7 +416,7 @@
                 "open_issues": 171,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
-                "stars": 1323,
+                "stars": 1324,
                 "topics": [
                   "activitypub",
                   "android",
@@ -444,7 +444,7 @@
                 "open_issues": 273,
                 "owner": "thunder-app",
                 "repo": "thunder",
-                "stars": 1024,
+                "stars": 1025,
                 "topics": [
                   "android",
                   "dart",
@@ -541,10 +541,10 @@
                 "language": "Swift",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-09T17:36:42Z",
-                "open_issues": 456,
+                "open_issues": 458,
                 "owner": "mlemgroup",
                 "repo": "mlem",
-                "stars": 249,
+                "stars": 250,
                 "topics": [
                   "activitypub",
                   "ios",
@@ -571,7 +571,7 @@
                 "open_issues": 39,
                 "owner": "interstellar-app",
                 "repo": "interstellar",
-                "stars": 143,
+                "stars": 144,
                 "topics": [
                   "fediverse",
                   "flutter",
@@ -600,7 +600,7 @@
                 "open_issues": 80,
                 "owner": "Blorp-Labs",
                 "repo": "blorp",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "activitypub",
                   "capacitor",
@@ -664,7 +664,7 @@
                 "open_issues": 2,
                 "owner": "BentonEdmondson",
                 "repo": "servitor",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "activitypub",
                   "activitypub-client",
@@ -1115,7 +1115,7 @@
                 "open_issues": 17,
                 "owner": "tgxn",
                 "repo": "lemmy-explorer",
-                "stars": 146,
+                "stars": 147,
                 "topics": [
                   "fediverse",
                   "lemmy",
@@ -1167,7 +1167,7 @@
                 "open_issues": 14,
                 "owner": "SleeplessOne1917",
                 "repo": "lemmy-bot",
-                "stars": 104,
+                "stars": 105,
                 "topics": [
                   "bot",
                   "bots",
@@ -1727,7 +1727,7 @@
             "open_issues": 15,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9249,
+            "stars": 9250,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:48:43.481Z",
+    "last_updated": "2026-10-11T19:08:57.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
@@ -1755,7 +1755,7 @@
       "open_issues": 6,
       "owner": "dbeley",
       "repo": "awesome-lemmy",
-      "stars": 364,
+      "stars": 365,
       "topics": [
         "awesome-list",
         "fediverse",
