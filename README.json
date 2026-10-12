@@ -17,11 +17,11 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-10T20:10:31Z",
-                "open_issues": 127,
+                "last_commit": "2026-10-12T13:36:17Z",
+                "open_issues": 129,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14624,
+                "stars": 14625,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -125,7 +125,7 @@
                 "open_issues": 9,
                 "owner": "maltfield",
                 "repo": "awesome-lemmy-instances",
-                "stars": 1015,
+                "stars": 1016,
                 "topics": [
                   "activitypub",
                   "awesome-list",
@@ -156,7 +156,7 @@
                 "id": 658111463,
                 "language": "Svelte",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-29T03:27:18Z",
+                "last_commit": "2026-10-12T16:27:28Z",
                 "open_issues": 92,
                 "owner": "Xyphyn",
                 "repo": "photon",
@@ -233,7 +233,7 @@
                 "open_issues": 1,
                 "owner": "Technicolor-Dreamcoat",
                 "repo": "Quiblr",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "fediverse",
                   "fediverse-client",
@@ -378,11 +378,11 @@
                 "id": 652400579,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-11T18:28:35Z",
+                "last_commit": "2026-10-11T23:08:27Z",
                 "open_issues": 259,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1817,
+                "stars": 1820,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -416,7 +416,7 @@
                 "open_issues": 171,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
-                "stars": 1324,
+                "stars": 1325,
                 "topics": [
                   "activitypub",
                   "android",
@@ -540,11 +540,11 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T17:36:42Z",
-                "open_issues": 458,
+                "last_commit": "2026-10-12T21:23:24Z",
+                "open_issues": 459,
                 "owner": "mlemgroup",
                 "repo": "mlem",
-                "stars": 250,
+                "stars": 251,
                 "topics": [
                   "activitypub",
                   "ios",
@@ -571,7 +571,7 @@
                 "open_issues": 39,
                 "owner": "interstellar-app",
                 "repo": "interstellar",
-                "stars": 144,
+                "stars": 145,
                 "topics": [
                   "fediverse",
                   "flutter",
@@ -631,7 +631,7 @@
                 "open_issues": 41,
                 "owner": "LiveFastEatTrashRaccoon",
                 "repo": "RaccoonForLemmy",
-                "stars": 105,
+                "stars": 106,
                 "topics": [
                   "android-app",
                   "compose-multiplatform",
@@ -991,7 +991,7 @@
                 "open_issues": 0,
                 "owner": "howdy-tsc",
                 "repo": "LemmyTools",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -1167,7 +1167,7 @@
                 "open_issues": 14,
                 "owner": "SleeplessOne1917",
                 "repo": "lemmy-bot",
-                "stars": 105,
+                "stars": 104,
                 "topics": [
                   "bot",
                   "bots",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:08:57.707Z",
+    "last_updated": "2026-10-12T22:13:21.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
