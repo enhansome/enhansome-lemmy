@@ -17,8 +17,8 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-12T13:36:17Z",
-                "open_issues": 129,
+                "last_commit": "2026-10-13T08:33:25Z",
+                "open_issues": 125,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
                 "stars": 14625,
@@ -379,10 +379,10 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-11T23:08:27Z",
-                "open_issues": 259,
+                "open_issues": 260,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1820,
+                "stars": 1819,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -412,7 +412,7 @@
                 "id": 443636619,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-21T19:49:06Z",
+                "last_commit": "2026-10-13T19:56:14Z",
                 "open_issues": 171,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
@@ -444,7 +444,7 @@
                 "open_issues": 273,
                 "owner": "thunder-app",
                 "repo": "thunder",
-                "stars": 1025,
+                "stars": 1026,
                 "topics": [
                   "android",
                   "dart",
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T21:23:24Z",
-                "open_issues": 459,
+                "last_commit": "2026-10-13T15:43:14Z",
+                "open_issues": 455,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 251,
@@ -832,7 +832,7 @@
                 "open_issues": 9,
                 "owner": "Fedihosting-Foundation",
                 "repo": "plemmy",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "api",
                   "lemmy"
@@ -1727,7 +1727,7 @@
             "open_issues": 15,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9250,
+            "stars": 9251,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:13:21.148Z",
+    "last_updated": "2026-10-13T20:19:47.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
