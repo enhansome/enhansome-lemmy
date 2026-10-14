@@ -17,11 +17,11 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-13T08:33:25Z",
+                "last_commit": "2026-10-14T15:15:28Z",
                 "open_issues": 125,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14625,
+                "stars": 14627,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -46,7 +46,7 @@
                 "id": 289611721,
                 "language": "CSS",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-07T17:07:36Z",
+                "last_commit": "2026-10-14T13:11:43Z",
                 "open_issues": 53,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
@@ -444,7 +444,7 @@
                 "open_issues": 273,
                 "owner": "thunder-app",
                 "repo": "thunder",
-                "stars": 1026,
+                "stars": 1027,
                 "topics": [
                   "android",
                   "dart",
@@ -1727,7 +1727,7 @@
             "open_issues": 15,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9251,
+            "stars": 9250,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:19:47.294Z",
+    "last_updated": "2026-10-14T18:50:46.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
