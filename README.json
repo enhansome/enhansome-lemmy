@@ -21,7 +21,7 @@
                 "open_issues": 125,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14631,
+                "stars": 14632,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-15T13:50:45Z",
-                "open_issues": 460,
+                "last_commit": "2026-10-18T15:37:41Z",
+                "open_issues": 454,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 251,
@@ -1327,7 +1327,7 @@
                 "open_issues": 49,
                 "owner": "mushroomlabs",
                 "repo": "fediverser",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -1724,7 +1724,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-09-20T08:21:10Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "lauris",
             "repo": "awesome-scala",
             "stars": 9248,
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:30:45.016Z",
+    "last_updated": "2026-10-18T17:31:22.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
