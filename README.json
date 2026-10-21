@@ -17,11 +17,11 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-20T14:28:41Z",
-                "open_issues": 125,
+                "last_commit": "2026-10-21T12:56:55Z",
+                "open_issues": 124,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14637,
+                "stars": 14640,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -46,8 +46,8 @@
                 "id": 289611721,
                 "language": "CSS",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-14T13:11:43Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-21T12:50:35Z",
+                "open_issues": 56,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
                 "stars": 1014,
@@ -93,7 +93,7 @@
                 "id": 947978586,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-07T09:30:18Z",
+                "last_commit": "2026-10-21T13:38:12Z",
                 "open_issues": 1,
                 "owner": "LemmyNet",
                 "repo": "lemmy-plugins",
@@ -416,7 +416,7 @@
                 "open_issues": 171,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
-                "stars": 1327,
+                "stars": 1328,
                 "topics": [
                   "activitypub",
                   "android",
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T19:03:13Z",
-                "open_issues": 455,
+                "last_commit": "2026-10-21T15:40:32Z",
+                "open_issues": 458,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 251,
@@ -600,7 +600,7 @@
                 "open_issues": 78,
                 "owner": "Blorp-Labs",
                 "repo": "blorp",
-                "stars": 135,
+                "stars": 134,
                 "topics": [
                   "activitypub",
                   "capacitor",
@@ -1197,7 +1197,7 @@
                 "open_issues": 7,
                 "owner": "db0",
                 "repo": "fedi-safety",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:41:12.201Z",
+    "last_updated": "2026-10-21T18:52:08.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
