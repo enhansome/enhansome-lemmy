@@ -17,11 +17,11 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-22T14:08:44Z",
-                "open_issues": 124,
+                "last_commit": "2026-10-23T17:59:12Z",
+                "open_issues": 119,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14641,
+                "stars": 14643,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -160,7 +160,7 @@
                 "open_issues": 92,
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 557,
+                "stars": 558,
                 "topics": [
                   "fediverse",
                   "lemmy",
@@ -382,7 +382,7 @@
                 "open_issues": 260,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1820,
+                "stars": 1821,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T18:29:10Z",
-                "open_issues": 466,
+                "last_commit": "2026-10-23T08:43:04Z",
+                "open_issues": 470,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 251,
@@ -600,7 +600,7 @@
                 "open_issues": 78,
                 "owner": "Blorp-Labs",
                 "repo": "blorp",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "activitypub",
                   "capacitor",
@@ -1727,7 +1727,7 @@
             "open_issues": 16,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9250,
+            "stars": 9251,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:45:39.752Z",
+    "last_updated": "2026-10-23T18:40:45.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
