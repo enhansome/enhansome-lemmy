@@ -17,11 +17,11 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-23T19:11:10Z",
-                "open_issues": 119,
+                "last_commit": "2026-10-26T15:21:37Z",
+                "open_issues": 122,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14644,
+                "stars": 14648,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -46,7 +46,7 @@
                 "id": 289611721,
                 "language": "CSS",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-22T11:47:40Z",
+                "last_commit": "2026-10-26T12:28:36Z",
                 "open_issues": 55,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
@@ -72,7 +72,7 @@
                 "id": 415142556,
                 "language": "Jinja",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-01T18:43:24Z",
+                "last_commit": "2026-10-26T13:55:36Z",
                 "open_issues": 8,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ansible",
@@ -210,7 +210,7 @@
                 "open_issues": 59,
                 "owner": "sheodox",
                 "repo": "alexandrite",
-                "stars": 280,
+                "stars": 281,
                 "topics": [
                   "lemmy"
                 ]
@@ -413,7 +413,7 @@
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-23T19:10:23Z",
-                "open_issues": 171,
+                "open_issues": 172,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
                 "stars": 1330,
@@ -475,7 +475,7 @@
                 "open_issues": 10,
                 "owner": "mrusme",
                 "repo": "neonmodem",
-                "stars": 698,
+                "stars": 699,
                 "topics": [
                   "api",
                   "api-client",
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-25T09:08:40Z",
-                "open_issues": 473,
+                "last_commit": "2026-10-26T19:56:40Z",
+                "open_issues": 470,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 251,
@@ -694,7 +694,7 @@
                 "open_issues": 8,
                 "owner": "idunnololz",
                 "repo": "summit-for-lemmy",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -786,8 +786,8 @@
                 "id": 288795449,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-06T20:44:14Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-26T14:48:36Z",
+                "open_issues": 7,
                 "owner": "LemmyNet",
                 "repo": "lemmy-js-client",
                 "stars": 155,
@@ -899,7 +899,7 @@
                 "id": 703764421,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-20T15:04:31Z",
+                "last_commit": "2026-10-26T18:58:20Z",
                 "open_issues": 3,
                 "owner": "MV-GH",
                 "repo": "LemmyBackwardsCompatibleAPI",
@@ -1727,7 +1727,7 @@
             "open_issues": 16,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9254,
+            "stars": 9255,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:49:06.892Z",
+    "last_updated": "2026-10-26T20:06:53.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
