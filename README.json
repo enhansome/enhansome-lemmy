@@ -17,11 +17,11 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-02T15:56:09Z",
-                "open_issues": 126,
+                "last_commit": "2026-11-03T10:57:48Z",
+                "open_issues": 124,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14659,
+                "stars": 14661,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -46,7 +46,7 @@
                 "id": 289611721,
                 "language": "CSS",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-02T17:41:52Z",
+                "last_commit": "2026-11-03T01:44:39Z",
                 "open_issues": 67,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
@@ -382,7 +382,7 @@
                 "open_issues": 262,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1829,
+                "stars": 1830,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -517,7 +517,7 @@
                 "open_issues": 106,
                 "owner": "Memmy-App",
                 "repo": "memmy",
-                "stars": 532,
+                "stars": 531,
                 "topics": [
                   "android",
                   "expo",
@@ -544,7 +544,7 @@
                 "open_issues": 468,
                 "owner": "mlemgroup",
                 "repo": "mlem",
-                "stars": 251,
+                "stars": 250,
                 "topics": [
                   "activitypub",
                   "ios",
@@ -790,7 +790,7 @@
                 "open_issues": 3,
                 "owner": "LemmyNet",
                 "repo": "lemmy-js-client",
-                "stars": 155,
+                "stars": 156,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:52:18.290Z",
+    "last_updated": "2026-11-03T20:35:47.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
