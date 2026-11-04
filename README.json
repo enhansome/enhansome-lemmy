@@ -17,11 +17,11 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-03T10:57:48Z",
-                "open_issues": 124,
+                "last_commit": "2026-11-04T13:15:07Z",
+                "open_issues": 117,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14661,
+                "stars": 14665,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -46,8 +46,8 @@
                 "id": 289611721,
                 "language": "CSS",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-03T01:44:39Z",
-                "open_issues": 67,
+                "last_commit": "2026-11-04T13:01:51Z",
+                "open_issues": 60,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
                 "stars": 1014,
@@ -1327,7 +1327,7 @@
                 "open_issues": 49,
                 "owner": "mushroomlabs",
                 "repo": "fediverser",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -1727,7 +1727,7 @@
             "open_issues": 16,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9259,
+            "stars": 9260,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:35:47.346Z",
+    "last_updated": "2026-11-04T20:54:28.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
