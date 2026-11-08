@@ -18,10 +18,10 @@
                 "language": "Rust",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-06T22:46:09Z",
-                "open_issues": 120,
+                "open_issues": 121,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14670,
+                "stars": 14669,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -160,7 +160,7 @@
                 "open_issues": 92,
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 558,
+                "stars": 557,
                 "topics": [
                   "fediverse",
                   "lemmy",
@@ -382,7 +382,7 @@
                 "open_issues": 261,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1833,
+                "stars": 1836,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -416,7 +416,7 @@
                 "open_issues": 171,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
-                "stars": 1333,
+                "stars": 1334,
                 "topics": [
                   "activitypub",
                   "android",
@@ -544,7 +544,7 @@
                 "open_issues": 472,
                 "owner": "mlemgroup",
                 "repo": "mlem",
-                "stars": 250,
+                "stars": 249,
                 "topics": [
                   "activitypub",
                   "ios",
@@ -600,7 +600,7 @@
                 "open_issues": 79,
                 "owner": "Blorp-Labs",
                 "repo": "blorp",
-                "stars": 136,
+                "stars": 137,
                 "topics": [
                   "activitypub",
                   "capacitor",
@@ -1416,7 +1416,7 @@
                 "open_issues": 6,
                 "owner": "RikudouSage",
                 "repo": "lemmyverse.link",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "fediverse",
                   "lemmy"
@@ -1727,7 +1727,7 @@
             "open_issues": 16,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9261,
+            "stars": 9262,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:00:22.379Z",
+    "last_updated": "2026-11-08T19:03:40.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
