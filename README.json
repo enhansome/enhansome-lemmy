@@ -21,7 +21,7 @@
                 "open_issues": 121,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14672,
+                "stars": 14676,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -47,10 +47,10 @@
                 "language": "CSS",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-10T18:09:39Z",
-                "open_issues": 73,
+                "open_issues": 72,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
-                "stars": 1015,
+                "stars": 1016,
                 "topics": [
                   "inferno",
                   "lemmy",
@@ -125,7 +125,7 @@
                 "open_issues": 9,
                 "owner": "maltfield",
                 "repo": "awesome-lemmy-instances",
-                "stars": 1016,
+                "stars": 1017,
                 "topics": [
                   "activitypub",
                   "awesome-list",
@@ -412,7 +412,7 @@
                 "id": 443636619,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-02T02:57:56Z",
+                "last_commit": "2026-11-11T05:12:12Z",
                 "open_issues": 171,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
@@ -444,7 +444,7 @@
                 "open_issues": 276,
                 "owner": "thunder-app",
                 "repo": "thunder",
-                "stars": 1027,
+                "stars": 1029,
                 "topics": [
                   "android",
                   "dart",
@@ -544,7 +544,7 @@
                 "open_issues": 477,
                 "owner": "mlemgroup",
                 "repo": "mlem",
-                "stars": 249,
+                "stars": 250,
                 "topics": [
                   "activitypub",
                   "ios",
@@ -567,8 +567,8 @@
                 "id": 730253649,
                 "language": "Dart",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-28T23:53:36Z",
-                "open_issues": 37,
+                "last_commit": "2026-11-11T12:49:19Z",
+                "open_issues": 36,
                 "owner": "interstellar-app",
                 "repo": "interstellar",
                 "stars": 147,
@@ -600,7 +600,7 @@
                 "open_issues": 79,
                 "owner": "Blorp-Labs",
                 "repo": "blorp",
-                "stars": 136,
+                "stars": 135,
                 "topics": [
                   "activitypub",
                   "capacitor",
@@ -690,11 +690,11 @@
                 "id": 661434634,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-11-10T05:56:28Z",
+                "last_commit": "2026-11-11T10:21:33Z",
                 "open_issues": 8,
                 "owner": "idunnololz",
                 "repo": "summit-for-lemmy",
-                "stars": 69,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -786,8 +786,8 @@
                 "id": 288795449,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-01T22:25:31Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-11T08:02:39Z",
+                "open_issues": 2,
                 "owner": "LemmyNet",
                 "repo": "lemmy-js-client",
                 "stars": 156,
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:58:47.727Z",
+    "last_updated": "2026-11-11T21:30:38.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
