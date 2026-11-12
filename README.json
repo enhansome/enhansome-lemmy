@@ -21,7 +21,7 @@
                 "open_issues": 121,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14676,
+                "stars": 14678,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -47,7 +47,7 @@
                 "language": "CSS",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-10T18:09:39Z",
-                "open_issues": 72,
+                "open_issues": 73,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
                 "stars": 1016,
@@ -76,7 +76,7 @@
                 "open_issues": 8,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ansible",
-                "stars": 273,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -379,7 +379,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-28T06:09:26Z",
-                "open_issues": 263,
+                "open_issues": 264,
                 "owner": "aeharding",
                 "repo": "voyager",
                 "stars": 1836,
@@ -541,7 +541,7 @@
                 "language": "Swift",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-09T16:49:42Z",
-                "open_issues": 477,
+                "open_issues": 478,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 250,
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:30:38.523Z",
+    "last_updated": "2026-11-12T21:33:44.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
