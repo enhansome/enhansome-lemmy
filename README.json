@@ -21,7 +21,7 @@
                 "open_issues": 120,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14679,
+                "stars": 14681,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -47,7 +47,7 @@
                 "language": "CSS",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-13T21:14:11Z",
-                "open_issues": 62,
+                "open_issues": 60,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
                 "stars": 1016,
@@ -160,7 +160,7 @@
                 "open_issues": 92,
                 "owner": "Xyphyn",
                 "repo": "photon",
-                "stars": 557,
+                "stars": 556,
                 "topics": [
                   "fediverse",
                   "lemmy",
@@ -210,7 +210,7 @@
                 "open_issues": 59,
                 "owner": "sheodox",
                 "repo": "alexandrite",
-                "stars": 281,
+                "stars": 282,
                 "topics": [
                   "lemmy"
                 ]
@@ -382,7 +382,7 @@
                 "open_issues": 265,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1835,
+                "stars": 1834,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -517,7 +517,7 @@
                 "open_issues": 106,
                 "owner": "Memmy-App",
                 "repo": "memmy",
-                "stars": 531,
+                "stars": 532,
                 "topics": [
                   "android",
                   "expo",
@@ -540,8 +540,8 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T19:08:08Z",
-                "open_issues": 475,
+                "last_commit": "2026-11-15T17:44:54Z",
+                "open_issues": 478,
                 "owner": "mlemgroup",
                 "repo": "mlem",
                 "stars": 250,
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:26:47.929Z",
+    "last_updated": "2026-11-15T19:55:43.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
@@ -1755,7 +1755,7 @@
       "open_issues": 6,
       "owner": "dbeley",
       "repo": "awesome-lemmy",
-      "stars": 366,
+      "stars": 367,
       "topics": [
         "awesome-list",
         "fediverse",
