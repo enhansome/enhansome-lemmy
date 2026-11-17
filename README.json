@@ -17,11 +17,11 @@
                 "id": 170729130,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-16T17:00:42Z",
-                "open_issues": 122,
+                "last_commit": "2026-11-17T16:26:31Z",
+                "open_issues": 119,
                 "owner": "LemmyNet",
                 "repo": "lemmy",
-                "stars": 14680,
+                "stars": 14683,
                 "topics": [
                   "activitypub",
                   "chat",
@@ -46,11 +46,11 @@
                 "id": 289611721,
                 "language": "CSS",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-16T22:39:41Z",
-                "open_issues": 72,
+                "last_commit": "2026-11-17T16:10:33Z",
+                "open_issues": 66,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ui",
-                "stars": 1016,
+                "stars": 1017,
                 "topics": [
                   "inferno",
                   "lemmy",
@@ -76,7 +76,7 @@
                 "open_issues": 8,
                 "owner": "LemmyNet",
                 "repo": "lemmy-ansible",
-                "stars": 273,
+                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:24.038Z"
@@ -382,7 +382,7 @@
                 "open_issues": 265,
                 "owner": "aeharding",
                 "repo": "voyager",
-                "stars": 1835,
+                "stars": 1836,
                 "topics": [
                   "activitypub",
                   "android-app",
@@ -416,7 +416,7 @@
                 "open_issues": 171,
                 "owner": "LemmyNet",
                 "repo": "jerboa",
-                "stars": 1334,
+                "stars": 1337,
                 "topics": [
                   "activitypub",
                   "android",
@@ -540,11 +540,11 @@
                 "id": 661451138,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-15T17:44:54Z",
+                "last_commit": "2026-11-17T22:15:31Z",
                 "open_issues": 479,
                 "owner": "mlemgroup",
                 "repo": "mlem",
-                "stars": 250,
+                "stars": 251,
                 "topics": [
                   "activitypub",
                   "ios",
@@ -631,7 +631,7 @@
                 "open_issues": 42,
                 "owner": "LiveFastEatTrashRaccoon",
                 "repo": "RaccoonForLemmy",
-                "stars": 106,
+                "stars": 107,
                 "topics": [
                   "android-app",
                   "compose-multiplatform",
@@ -764,7 +764,7 @@
                 "open_issues": 4,
                 "owner": "LemmyNet",
                 "repo": "activitypub-federation-rust",
-                "stars": 497,
+                "stars": 498,
                 "topics": [
                   "activitypub",
                   "federation",
@@ -899,7 +899,7 @@
                 "id": 703764421,
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-01T15:44:08Z",
+                "last_commit": "2026-11-17T09:54:57Z",
                 "open_issues": 1,
                 "owner": "MV-GH",
                 "repo": "LemmyBackwardsCompatibleAPI",
@@ -1112,7 +1112,7 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2026-09-10T15:32:34Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "tgxn",
                 "repo": "lemmy-explorer",
                 "stars": 144,
@@ -1743,7 +1743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:29:30.757Z",
+    "last_updated": "2026-11-17T22:36:46.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "A community driven list of useful apps, tools and websites for the Lemmy federated social network.",
